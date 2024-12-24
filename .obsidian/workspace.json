@@ -217,9 +217,28 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "a2174ccfb76f03f1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -578,8 +597,9 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "fd334239d6a30b0b",
+  "active": "a2174ccfb76f03f1",
   "lastOpenFiles": [
+    "Extras/Images/The StatQuest illustrated guide to machine learning!!! -- Josh Starmer -- 2022 -- Garzanti -- 9788811583608 -- 28ed0287cfd108f874da33508199ec6b -- Anna’s Archive 1.pdf",
     "Extras/Images/The StatQuest illustrated guide to machine learning!!! -- Josh Starmer -- 2022 -- Garzanti -- 9788811583608 -- 28ed0287cfd108f874da33508199ec6b -- Anna’s Archive.pdf",
     "Home.md",
     "+ Encounters/Supervised Learning MOC.md",
@@ -615,7 +635,6 @@
     "Cards/Finance/FX",
     "Cards/Finance/Corporate_Finance",
     "Cards/Quantitative_Valuation",
-    "Cards/untitled folder",
     "Extras/Images/Pasted image 20241114175302.png",
     "Extras/Images/Pasted image 20241114175254.png",
     "Extras/Images/Pasted image 20241113175515.png",
