@@ -192,9 +192,34 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "fd334239d6a30b0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "The StatQuest illustrated guide to machine learning!!! -- Josh Starmer -- 2022 -- Garzanti -- 9788811583608 -- 28ed0287cfd108f874da33508199ec6b -- Anna’s Archive",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Extras/Images/The StatQuest illustrated guide to machine learning!!! -- Josh Starmer -- 2022 -- Garzanti -- 9788811583608 -- 28ed0287cfd108f874da33508199ec6b -- Anna’s Archive.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"The StatQuest illustrated guide to machine learning!!! -- Josh Starmer -- 2022 -- Garzanti -- 9788811583608 -- 28ed0287cfd108f874da33508199ec6b -- Anna’s Archive\"}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -553,8 +578,9 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "cbaf9f76097fecca",
+  "active": "fd334239d6a30b0b",
   "lastOpenFiles": [
+    "Extras/Images/The StatQuest illustrated guide to machine learning!!! -- Josh Starmer -- 2022 -- Garzanti -- 9788811583608 -- 28ed0287cfd108f874da33508199ec6b -- Anna’s Archive.pdf",
     "Home.md",
     "+ Encounters/Supervised Learning MOC.md",
     "+ Encounters/Supervised Learning.md",
@@ -581,7 +607,6 @@
     "Cards/Math/Statistics/Probability/Law of Total Probability.md",
     "Cards/Math/Statistics/Probability/De Morgan's Laws.md",
     "Cards/Math/Statistics/Probability/Conditional Probability.md",
-    "Cards/Math/Statistics/Probability/Bayes Theorem.md",
     "Cards/Math/Statistics/Probability",
     "Cards/Math/Statistics",
     "Cards/Finance/Real Estate Finance",
