@@ -1,0 +1,606 @@
+{
+  "main": {
+    "id": "2e1fd2e999022306",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfa3d1488d63cc8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ddb7b5f291f639",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Multiple Class Classification",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Multiple Class Classification.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Multiple Class Classification\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}}}"
+                },
+                {
+                  "title": "Supervised Learning MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":20},\"to\":{\"line\":8,\"ch\":20}}}"
+                },
+                {
+                  "title": "Logistic Regression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Logistic Regression.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Logistic Regression\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":16},\"to\":{\"line\":0,\"ch\":16}}}"
+                },
+                {
+                  "title": "Supervised Learning MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":11},\"to\":{\"line\":7,\"ch\":11}}}"
+                },
+                {
+                  "title": "Regression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Regression.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Regression\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}}}"
+                },
+                {
+                  "title": "Supervised Learning MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":9},\"to\":{\"line\":5,\"ch\":9}}}"
+                },
+                {
+                  "title": "Classification",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Classification.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Classification\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
+                },
+                {
+                  "title": "Supervised Learning MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":12},\"to\":{\"line\":4,\"ch\":12}}}"
+                },
+                {
+                  "title": "Supervised Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}}}"
+                },
+                {
+                  "title": "Supervised Learning MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":16},\"to\":{\"line\":3,\"ch\":16}},\"scroll\":0}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":23},\"to\":{\"line\":28,\"ch\":23}},\"scroll\":6.97496757457847}"
+                },
+                {
+                  "title": "Time Series MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Time Series MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Series MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}},\"scroll\":0}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":21},\"to\":{\"line\":27,\"ch\":21}},\"scroll\":8.824380165289256}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/Unsupervised Learning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unsupervised Learning"
+            }
+          },
+          {
+            "id": "8975cff7bd2e46d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Supervised Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":28},\"to\":{\"line\":0,\"ch\":28}}}"
+                },
+                {
+                  "title": "Multiple Class Classification",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Multiple Class Classification.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Multiple Class Classification\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":20},\"to\":{\"line\":0,\"ch\":20}}}"
+                },
+                {
+                  "title": "Supervised Learning MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":17},\"to\":{\"line\":8,\"ch\":17}}}"
+                },
+                {
+                  "title": "Regression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Regression.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Regression\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":20},\"to\":{\"line\":0,\"ch\":20}}}"
+                },
+                {
+                  "title": "Supervised Learning MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Supervised Learning MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supervised Learning MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":11},\"to\":{\"line\":5,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":24},\"to\":{\"line\":28,\"ch\":24}},\"scroll\":7.400399467376831}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/Supervised Learning MOC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supervised Learning MOC"
+            }
+          },
+          {
+            "id": "c4eaf8261c84668f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "dimension": 43.79639448568399,
+        "children": [
+          {
+            "id": "cbaf9f76097fecca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "240a914140785f11",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "37753d13daeb849d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "bcc83f5891c5e3d2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ae605565d6797f34",
+        "type": "tabs",
+        "dimension": 56.20360551431601,
+        "children": [
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31b3e2576b134863",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "+ Encounters/General Valuation Equation (GVE).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7965303235712843,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of General Valuation Equation (GVE)"
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "+ Encounters/General Valuation Equation (GVE).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of General Valuation Equation (GVE)"
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "default",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6321f478b28fa615",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "+ Encounters/Quantitative Valuation MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quantitative Valuation MOC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today's daily note": false
+    }
+  },
+  "active": "cbaf9f76097fecca",
+  "lastOpenFiles": [
+    "Home.md",
+    "+ Encounters/Supervised Learning MOC.md",
+    "+ Encounters/Supervised Learning.md",
+    "+ Encounters/Multiple Class Classification.md",
+    "+ Encounters/Regression.md",
+    "+ Encounters/Unsupervised Learning.md",
+    "+ Encounters/Logistic Regression.md",
+    "+ Encounters/Classification.md",
+    "+ Encounters/Time Series MOC.md",
+    "Cards/Finance/Commodities/Retail vs Wholesale Energy Markets.md",
+    "Cards/Finance/Commodities/Physical vs Financial Energy Markets.md",
+    "Cards/Finance/Commodities/Natural Gas.md",
+    "Cards/Finance/Commodities/Natural Gas Supply and Demand.md",
+    "Cards/Finance/Commodities/Natural Gas Storage.md",
+    "Cards/Finance/Commodities/Natural Gas Industry.md",
+    "Cards/Finance/Commodities/Natural Gas Delivery.md",
+    "Cards/Finance/Commodities/Federal Energy Regulatory Commission (FERC).md",
+    "Cards/Finance/Commodities/Electricity Usage.md",
+    "Cards/Finance/Commodities/Electricity.md",
+    "Cards/Finance/Commodities/Electricity Storage.md",
+    "Cards/Finance/Commodities",
+    "Cards/Math/Statistics/Probability/Set Theory.md",
+    "Cards/Math/Statistics/Probability/Probability Axioms.md",
+    "Cards/Math/Statistics/Probability/Law of Total Probability.md",
+    "Cards/Math/Statistics/Probability/De Morgan's Laws.md",
+    "Cards/Math/Statistics/Probability/Conditional Probability.md",
+    "Cards/Math/Statistics/Probability/Bayes Theorem.md",
+    "Cards/Math/Statistics/Probability",
+    "Cards/Math/Statistics",
+    "Cards/Finance/Real Estate Finance",
+    "Cards/Finance/Portfolio Theory",
+    "Cards/Finance/Fixed Income",
+    "Cards/Finance/FX",
+    "Cards/Finance/Corporate_Finance",
+    "Cards/Quantitative_Valuation",
+    "Cards/untitled folder",
+    "Extras/Images/Pasted image 20241114175302.png",
+    "Extras/Images/Pasted image 20241114175254.png",
+    "Extras/Images/Pasted image 20241113175515.png",
+    "Extras/Images/Pasted image 20241113175014.png",
+    "Extras/Images/Pasted image 20241113173514.png",
+    "Extras/Images/Pasted image 20241113164944.png",
+    "Extras/Images/Pasted image 20241113141006.png",
+    "Extras/Images/Pasted image 20241112212731.png",
+    "Extras/Images/Screenshot 2024-11-12 at 6.10.52 PM.png",
+    "Extras/Images/Pasted image 20241112163521.png",
+    "Untitled.canvas"
+  ]
+}

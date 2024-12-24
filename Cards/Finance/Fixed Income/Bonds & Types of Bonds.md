@@ -1,0 +1,35 @@
+up:: [[Fixed Income MOC]]
+tags:: #Finance
+# Bonds
+- Interest on bonds is *tax deductible*
+- Generally do not fluctuate unless there is a big event like a change in credit rating
+- Liquidation order on bankruptcy
+	- Secured bonds → debentures → subordinated debentures → preferred stock → common stock
+## Types of Bonds
+- ordered from least risky to most risky:
+
+| Bond Type                        | Definition                                                                                        | Mathematical Pricing Formula                                                                       | Average % Return | Minimum Denominations | Settlement |
+| -------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------- | --------------------- | ---------- |
+| **T-Bills**                      | Short-term securities issued by the U.S. government with maturities of one year or less.          | $P = \frac{F}{(1 + r \cdot \frac{T}{365})}$                                                        | 1-3%             | $1,000                | T+1        |
+| **Index-Linked TIPS**            | Bonds issued by the government with interest payments and principal linked to an inflation index. | $P = \sum_{t=1}^{T} \frac{C \cdot (1 + \pi_t)}{(1 + r)^t} + \frac{F \cdot (1 + \pi_T)}{(1 + r)^T}$ | 1-4%             | $1,000                | T+2        |
+| **Municipal Bonds**              | Bonds issued by local government entities.                                                        | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 2-5%             | $1,000                | T+2        |
+| **Corporate Bonds**              | Bonds issued by corporations to raise capital.                                                    | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 3-7%             | $1,000                | T+2        |
+| **Prior Lien Bonds**             | Bonds that have a higher claim on assets than other bonds.                                        | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 2-5%             | $1,000                | T+2        |
+| **Secured Bonds**                | Bonds backed by specific assets as collateral.                                                    | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 3-6%             | $1,000                | T+2        |
+| **Mortgage Bonds**               | Bonds secured by a mortgage on real property.                                                     | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 3-6%             | $1,000                | T+2        |
+| **Equipment Trust Certificates** | Bonds secured by specific equipment, usually used by transportation companies.                    | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 3-7%             | $1,000                | T+2        |
+| **Collateral Trust Bonds**       | Bonds secured by financial assets, like stocks and bonds of other companies.                      | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 3-7%             | $1,000                | T+2        |
+| **Debentures**                   | Unsecured bonds that rely on the creditworthiness of the issuer.                                  | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 4-8%             | $1,000                | T+2        |
+| **Convertible Debentures**       | Debentures that can be converted into a specified number of shares of the issuing company.        | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T} + C_{conversion}$                    | 4-8%             | $1,000                | T+2        |
+| **Income Bonds**                 | Bonds where coupon payments depend on the issuer's income, secured by mortgage.                   | $P = \sum_{t=1}^{T} \frac{C \cdot I_t}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                           | 5-9%             | $1,000                | T+2        |
+| **Zero-Coupon Bonds**            | Bonds that do not pay periodic interest but are sold at a discount to their face value.           | $P = \frac{F}{(1 + r)^T}$                                                                          | 5-9%             | $1,000                | T+2        |
+| **Callable Bonds**               | Bonds that can be redeemed by the issuer before their maturity date.                              | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F_{call}}{(1 + r)^T}$                              | 5-9%             | $1,000                | T+2        |
+| **Putable Bonds**                | Bonds that can be sold back to the issuer at the holder's discretion before maturity.             | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F_{put}}{(1 + r)^T}$                               | 5-9%             | $1,000                | T+2        |
+| **Serial Bonds**                 | Bonds issued with multiple maturity dates.                                                        | $P = \sum_{t=1}^{T} \frac{C_t}{(1 + r)^t} + \sum_{t=1}^{T} \frac{F_t}{(1 + r)^t}$                  | 4-10%            | $1,000                | T+2        |
+| **Term Bonds**                   | Bonds that mature at a single date in the future.                                                 | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 4-10%            | $1,000                | T+2        |
+| **Undated Bonds**                | Bonds with no fixed maturity date, often paying interest in perpetuity.                           | $P = \frac{C}{r}$                                                                                  | 4-10%            | $1,000                | T+2        |
+| **Junk Bonds**                   | High-yield bonds with a lower credit rating, considered riskier.                                  | $P = \sum_{t=1}^{T} \frac{C}{(1 + r)^t} + \frac{F}{(1 + r)^T}$                                     | 6-12%            | $1,000                | T+2        |
+
+- **Debentures** are the most basic bond, usually what people refer to
+- **Structured bonds** refers to any bond with additional tailor made characteristics (index linked, convertible, callable, putable, etc)
+- You are always better off not converting your **convertible bonds**, as your equity share will be the same as your debt share. You basically just forfeited your [[Accrued Interest on a Bond]] and debt priority in capital stack

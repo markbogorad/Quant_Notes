@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "6bb4e3c90d4b0ccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b818f8671c8d0c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffe17759f0c5d2dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "032 CPP Implementation/Functions/ToString CPP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d20c7482769347a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf058c714908a4c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78942423da20b04a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c819389ba0007a74",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7b45e9023ad005c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93d77cdcf5ca9fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "79883e026018caeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3409c9c0ddb598e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55881955b7184daf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cae2b650ee65ed1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "910ca079fccf81f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13a6d195883cddaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "04992ec097120de7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "17bb547c5c24590b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "098d474507f6d7c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "code-files:Create Code File": false,
+      "audio-recorder:Start/stop recording": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c819389ba0007a74",
+  "lastOpenFiles": [
+    "032 CPP Implementation/Functions/ToString CPP.md",
+    "050 Inheritance & Polymorphism/Inheritance.md",
+    "031 HPP - The Canonical HPP File/Functions/ToString.md",
+    "032 CPP Implementation/Operators/Operator Overloading CPP.md",
+    "032 CPP Implementation/Operators/Assignment Operator CPP.md",
+    "031 HPP - The Canonical HPP File/Operators/Widely Used Operators.md",
+    "031 HPP - The Canonical HPP File/Functions/Getter & Setter.md",
+    "000 C++ Theory/Reading Input & Output from Keyboard.md",
+    "010 Basic C++ Language and Syntax/C++ Standard Operators.md",
+    "010 Basic C++ Language and Syntax/Recursive Function.md",
+    "000 C++ Theory/Global & Local Variables.md",
+    "010 Basic C++ Language and Syntax/Loops/Switch Case.md",
+    "010 Basic C++ Language and Syntax/Loops/Do While Loop.md",
+    "010 Basic C++ Language and Syntax/Loops/While Loop.md",
+    "032 CPP Implementation/Canonical Header File Implementation/Copy Constructor Implementation.md",
+    "032 CPP Implementation/Canonical Header File Implementation/A.md",
+    "032 CPP Implementation/Canonical Header File Implementation/Default Constructor Implementation.md",
+    "032 CPP Implementation/Canonical Header File Implementation/Destructor Implementation.md",
+    "032 CPP Implementation/Canonical Header File Implementation/Implementation Structure.md",
+    "032 CPP Implementation/Canonical Header File Implementation/Parameterized Constructor Implementation.md",
+    "031 HPP - The Canonical HPP File/Canonical HPP File/Class Definition & Constructors.md",
+    "inclusion.md",
+    "032 CPP Implementation/Colon Syntax.md",
+    "000 C++ Theory/Instantation.md",
+    "050 Inheritance & Polymorphism/Polymorphism.md",
+    "031 HPP - The Canonical HPP File/Operators/Static Polymorphism.md",
+    "031 HPP - The Canonical HPP File/Canonical HPP File",
+    "031 HPP - The Canonical HPP File/Functions",
+    "031 HPP - The Canonical HPP File/Operators",
+    "031 HPP - The Canonical HPP File/Constructors",
+    "090 Finance Applications",
+    "073 Iterators",
+    "072 Algorithms",
+    "071 Sequence Containers",
+    "xblog-Encapsulation.png",
+    "000 C++ Theory/xblog-Encapsulation.png",
+    "000 C++ Theory/1*Dy36LN9VYPyUbl1TrRIePg.png",
+    "My Code File..hpp",
+    "Workflows/02 PARA_Starter_Kit_v2/4. Archive/2020-05-05-Archive/Cobweb_Folder/Spiders",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/The biochemistry of flow.png",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Zone Channel.jpg",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map.png",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map - Original.jpg"
+  ]
+}

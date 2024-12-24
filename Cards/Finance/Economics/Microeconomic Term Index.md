@@ -1,0 +1,104 @@
+up:: [[Economics MOC]]
+tags:: #Finance 
+# Common Terms
+- **Opportunity cost**
+	- Loss of gain from obtaining one alternative instead of another
+- **Production possibility boundary**
+	- Shows all possible combinations of goods when resources are *fully employed*
+- **Positive statement**
+	- A fact with no value judgement
+	- Can be inaccurate fact
+- **Normative statement**
+	- Opinion based with value judgement → “you should do this”
+- **Technical efficiency (productive efficiency)**
+	- The production of any level of output at its lowest cost
+	- Cant have more of 1 thing without less of another
+	- Producing at full capacity
+- **Allocative efficiency**
+	- Scarce resources being allocated optimally
+	- Makes 1 person better off without making another worse off
+	- Am I producing the right things?
+	- 1 specific point on curve
+- **Absolute advantage**
+	- Advantage in production when they can make more with same amount of resources
+- **Comparative advantage**
+	- Advantage in production when countries specialize where there is lower opportunity cost (comparative advantage)
+	- Only works with trade
+- **Types of economies**
+	- Traditional
+		- Exchange goods and services for other goods and services
+		- Tradition guides economic production
+	- Command
+		- Centrally planned
+	- Free market
+		- Capitalist economy
+- **Substitutes**
+	- If one good is too expensive, people will buy substitutes
+- **Complements**
+	- If one good is too expensive, there will be no point in buying complements
+- **Inferior good**
+	- Negative income elasticity
+		- Demand decreases as incomes increase
+- **Normal good**
+	- Demand increases when incomes increase
+- **Law of Demand** [[Supply and Demand]]
+	- Demand will always slope down
+- **Utility**
+	- How happy consumers are within a budget constraint
+- **Marginal utility curve**
+	- Diminishing curve: the more you get of something the less you enjoy it
+- **Indifference curve**
+	- Combinations that give equal utility
+- **Consumers equilibrium**
+	- Where utility is maximized:
+		- Marginal utility of product x/Price of product x = Marginal utility of product y/Price of product y
+- **Zero sum game**
+	- Value is not created nor destroyed (winners profit off losers)
+- **Negative sum game**
+	- Value is destroyed (losses of losers exceed winnings of winners)
+- **Paradox of value**
+	- Why are diamonds more expensive than water?
+		- *Value is determined by marginal utility*
+			- Abundance will make something less desirable
+- **Capacity**
+	- The level of output where short run average costs is at minimum
+- **Economies of Scale**
+	- Cost reduction due to large scale of operation (lower cost per unit with higher consumption)
+- **Economies of Scope**
+	- Cost advantages due to increasing variety of goods via synergies (production line matching, shared recourses, synergies, etc)
+- **Perfect Competition**
+	- Lots of firms in the industry selling the same product (exactly identical)
+		- Perfect substitute products
+- **Monopoly**
+	-  When one corporation owns the entire industry
+- **Oligopoly**
+	- Collusion among companies to form a monopoly
+- **Monopolistic Compeittion**
+	- Firms can enter and differentiate but competition is extremely high
+		- Something like the London restaurant market
+- **Sunk costs**
+	- Costs already paid are considered irrelevant in decision making (already lost)
+- **Imperfect Information**
+	- When no one in the market has full information
+- **Asymmetric Information**
+	- When one side has more information than the other
+- **Information Failure**
+	- Individuals are unable to make judgements due to asymmetry
+		- Government steps in to force additional info (think food labels)
+		- Without this, higher end products get pushed out
+- **Market for Lemons**
+	- Market collapse due to asymmetric information
+	- Seller has more info -> buyer will think he's getting ripped off -> wont buy at a fair price
+- **Adverse Selection**
+	- Attracting bad customers (ex: higher interest rates attracting bad borrowers)
+- **Moral Hazard**
+	- Change in party behavior after a transaction (care less about car damages after getting insurance)
+		- Banking specific see [[Banking MOC]] and [[Information Economies]]
+- **Monopsonist**
+	- The sole purchaser of a product
+- Externalities
+	- When a single person's decision has a wider affect on society
+	- Positive externality
+		- Welfare increases when this happens (ex: getting a vaccine)
+	- Negative externality
+		- Welfare would increase if this reduces (pollution)

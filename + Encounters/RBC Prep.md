@@ -1,0 +1,213 @@
+# RBC Round 3 Prep
+## People I've Spoken with
+
+| **Name**          | **Role**                          | **What Was Discussed in Interviews**                                                                                                     | **What to Expect / Focus On**                                                                                      |
+|--------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Catherine**      | Associate Director, Market Risk   | Interview pending, no prior interaction.                                                                                              | Expect questions on **regulatory risk, compliance**, and how risk is managed across combined U.S. operations (IHC, LLC, City National Bank). Be prepared for **portfolio risk oversight, stress testing, and scenario analysis.** |
+| **Avery Andrews**  | Market Risk Manager (RBC)         | Focused on **derivatives risk management, VaR, Greeks**, and **brain teasers**. Asked about **trading strategies** and **risk metrics**.| Expect a deep dive into **technical concepts like Greeks, hedging strategies, VaR methods, and option pricing.** Potential brain teasers.|
+| **Michael**        | Market Risk (RBC)                | Discussed **legal entity market risk, regulatory initiatives** (FRB and OCB), **product control**, and **risk attribution**.            | Prepare for questions on **regulatory compliance, capital metrics**, and **decomposing risk into attribution components**.                     |
+| **Sharda**         | MD Market Risk (RBC)             | Focused on **trading book modernization** and **Quantitative Impact Studies (QIS)** related to regulatory changes.                     | Be ready for questions on **regulatory-driven risk management changes** and **improving risk infrastructure or processes**.                    |
+| **Daniel Carrapa** | Market Risk Team (RBC)            | Asked about **risk factor modeling** and designing **what-if analyses** during interviews.                                             | Prepare for questions on **scenario testing**, breaking down risk into **specific drivers** (e.g., interest rate changes, volatility), and interpreting the results of stress tests. |
+
+## Python Qs
+- Data structures
+	- Dataframe - a multi-dimensional list (like a table)
+		- `df = pd.DataFrame(data) print(df)`
+		- `# Accessing multiple columns` 
+			- `subset = df[["Name", "Salary"]] print(subset)`
+		- `# Filtering rows high_earners` 
+			- `high_earners = df[df["Salary"] > 75000] print(high_earners)`
+		- `# Grouping by a column and finding the mean salary` 
+			- `grouped = df.groupby("Department")["Salary"].mean()`
+		- `# Sorting by Salary in descending order `
+			- `sorted_df = df.sort_values(by="Salary", ascending=False)`
+		- `# Merging DataFrames on a common column 
+			- `merged_df = pd.merge(df1, df2, on="Employee")`
+	- Lists
+		- List vs [[Tuple]] -> lists are mutable (elements can change after created) tuples are not (cant append to a tuple)
+			- 
+		- Reverse a string
+		- List comprehension
+		- Slicing - extract portions of a list with colon : `[start : stop : step]`
+	- Loops
+		- Fibonacci
+	- Dictionaries
+		- Maps keys to values --> access values by key
+		- `#Find highest stock in a dictionary`
+			- `max(my_dict.values())`
+	- Operators
+		- . -> accesses a part of a list dict.values
+		- () --> calls function print(list)
+- Data types
+	- Mutable vs immutable
+- String and list indexing
+## Risk Core Concepts
+- **[[Value at Risk (VaR)]] -> 99% chance losses will not exceed X**
+	- Variance-covariance (parametric)
+		- Assumes normality (not true) -> needs expected shortfall addition
+		- $\text{VaR} = \text{VM} * Z_a * \sigma * \sqrt{T}$
+			- Z is either 1.65 for 95% or 2.33 for 99%
+	- Historical --> good for tail events
+		- Collects historical returns to simulate losses
+		- X worst losses is your VaR -> the single return corresponding to the 95% or 99% percentile -> 13th or 3rd worst return
+		- Non parametric -> less human input
+		- Basel likes this from a regulatory POV because its simple and explainable
+			- Banks also run stress tests on this to compensate for additional risk
+	- Monte-Carlo --> good for non normal portfolios
+		- Uses random sampling to simulate portfolio outcomes
+		- Get portfolio mean and variance, generate random variables, apply them to volatility, calculate portfolio losses as a product of the variables
+			- simulated return = mean + std * norms.inv(rand) --> can do any distribution by raking the inverse of it's CDF
+			- Could alternatively simulated price evolution with a GBM
+		- Downside: lots of human input (distribution, std, etc)
+- **Scenario Analysis**
+	- In practice:
+		- Forward looking scenarios
+			- Interest rate changes
+			- geopolitical things
+			- sector specific adjustments
+			- regulatory changes
+	- Stress testing - subset of scenario analysis
+	- Recompute portfolio characteristics under scenario analysis
+		- VaR, portfolio value, greeks
+	- How to create the assumptions
+		- Look at how much things changed in the past
+			- Ex: equities fell X during covid
+		- Forecast to create assumptions
+		- Use MC to simulate events and draft assumptions from there
+	- Reverse stress testing
+		- If VaR has been exceeded, here is what will happen
+- Multi asset options
+	- Basket option -> an option on several equities
+	- Spread option -> option on difference between assets
+	- Challenges vs single asset option
+	- Correlation risk -> either amplifies or reduces risk
+	- Hedging this
+- [[Black-Scholes]]
+	- Limitations
+		- Constant volatility and interest rates assumption, also assume that these are deterministic
+		- Ignores transaction costs and liquidity constraints
+		- Assumes a lognormal distribution which doesn't capture fatness of tails
+	- Derive (explanation): 
+		- Assume stock prices follow a GBM: stock price is a function of volatility and a drift term driven by a Weiner process
+		- Construct risk free portfolio of long option short stock, using Ito's lemma to show how option price evolves (stochastic Taylor series equivalent application to risk free portfolio). Option price = delta * underlying + cash or risk free bond
+		- Under no arbitrage, derive risk free rate for portfolio growth
+		- Solve the PDE as a result, with boundary condition being the payoff of a European option
+	- Call = $S_0 N(d1) - Ke^{-rT} N(d2)$ -> PV of stock - PV of strike price
+	- Put = $Ke^{-rT} N(-d2) - S_0 N(-d1)$
+- Greeks
+	- [[Delta]] - highest deep in the money 
+	- [[Gamma]] - highest ATM (results in largest delta changes)
+	- [[Vega]] - highest ATM
+	- [[Rho]] - highest deep ITM
+	- [[Theta]] - most negative ATM
+- [[Swaps]]
+- [[Swaptions]]
+- Bonds
+	- Bond price and int rates -> inverse (more attractive offers come)
+	- YTM > coupon -> trading at a discount (inverse) -> can just refinance so needs to be at discount
+- [[Duration Model]] - impact of rate changes on bond portfolio. Measure basically says how much money is left on the table for the future
+	- Ex: low coupon = higher duration
+	- shortcoming is its linear
+- [[Convexity]] - 2nd order impact of rate changes -> captures true curvature of yield changes
+- [[Yield Curve]] 
+## Regulation
+- Capital Ratios
+	- Comparing capital to RWAs
+		- RWAs = amount * RWA factor
+			- Ex: bonds are 0, loans are 100%
+	- CET1 - core instruments / RWAs
+	- Tier 1 - CET 1 + tier 1 (preferred stock) / RWA
+	- Total capital = tier 1 + tier 2 / RWAs
+- Liquidity Ratios
+	- liquidity coverage ratio - ensure banks have enough money to survive a 30 day stress scenario
+		- HQLA/net cash outlfows over 30 days
+	- net stable funding ratio - ensures longer term funding will be stable for 1 year
+- FRB/OCB
+	- Federal reserve bank
+	- Monitors compliance and is in charge of CCAR
+		- Massive stress test done to ensure banks can still distribute dividends
+		- CCAR tests compliance under stress
+- Basel III
+	- introduced ratios and RWAs. Happened post crisis
+## Behavioral
+- Why RBC -> Cameron's experience in the role, said everyone was extremely supportive and he found it advanced his knowledge. Good culture because of that. 
+	- Aligns with my goals of understanding risk analytics better
+	- Like being able to work with a variety of tools - from Python to visualization software like Tableau
+- Market outlook
+	- Indices reached new highs post election, which was the most crucial event for the past 2 or so quarters
+	- Spurred by low jobless claims, stable inflation, and decreasing interest rates
+	- Tarriff proposals on the radar for potential frictions
+	- Potential santa claus rally in end of december -> stocks rise 75% chance historically 
+	- Next fed meeting 18th
+		- 0.5 cut -> 0.25 cut -> currently at 4.125%
+- Favorite class -> valuation
+	- Redefinition of risk as [[Risk Valuation]] (risk capital)
+## CV
+- TA role
+	- HJM model
+		- Can play a role in scenario analysis via simulating yield curve movements
+			- Stress testing interest rate risk
+		- Models the term structure of interest rates (forward rates) using a similar stochastic framework as the foundation of black scholes
+			- A function of volatility and a drift term under a Weiner process
+		- used for pricing interest rate derivatives 
+			- Caps - max floating rate in an interest rate derivative (like a call)
+			- Floors - min floating rate (like a put)
+			- Swaptions - right but not the obligation to enter into an interest rate swap
+				- Call swaption -> right to pay the rate
+				- Put swaption -> right to receive the swaption
+- CBRE
+	- Final presentation was a sort of scenario analysis of potential impacts on the vacancy rate series
+- TE
+	- Introduction to practical finance and financial products
+	- Tax optimization and overall investment principles
+	- Financial advisory analogous role
+- Projects
+	- **Option Pricer**
+		- Visualized spot vs volatility charts with Seaborn for calls and puts
+		- Strategies
+			- Covered call - short a call to hedge some or all downside risk temporarily
+			- Protective put - buying a put to hedge long position in stock (payoff looks like a call)
+			- Covered call + protective put = collar
+			- Bull spread - betting on slight increase (capped upside and downside). Long lower call short higher call (picture shape _/-)
+			- Bear spread - betting on slight decrease (capped upside and downside) (-\_)
+			- Butterfly -> triangle shape either bullish or bearish. Created with 3 options. `_^_`
+			- Straddle -> massive unhedged triangle. These are rare because highest payoff needs to be exact
+			- Strangle -> trapezoid
+		- Hedging tool
+			- Given a greek, hedge by - total greek position / greek of single stock or option = solve for # of contracts
+	- **Carry Trade** - volatility risk management for trading
+		- Success of the carry trade relies on the failure of uncovered interest rate parity. Intuitively, the foreign exchange rate change should be perfectly offset by a change in the interest rate differential of the 2 countries. This however fails in practice - allowing for the carry trade to exist
+		- My project examined the pairwise carry and HML carry portfolios for the G10 currencies
+			- Match lowest (borrow) to highest (invest) interest rates -> HML did these for top 3 and lowest 3
+		- Strategy: on-off switch by citibank
+			- Close out positions when volatility breaches either a forecasted threshold (via TARCH) or realized volatility threshold at 90% for both (kind of like a VaR for volatility)
+			- 10% because if fat tail distribution in volatility related price changes -> wanted to sever risk early
+		- My process
+			- Evaluate stationary currency returns and carry trade returns, using some currency returns as potential features if significant 
+				- Carry trade returns = difference between spot 1 period ahead and forward (as if we invested into risk free at that place)
+					- From the relationship that forward = spot * domestic rate / foreign rate
+					- Basically capturing currency appreciation by how much the spot outperformed the forward
+			- Tested all with ADF
+		- Tested full GARCH family
+			- GARCH: Captures volatility clustering; significance of squared average volatility.
+			- GARCHM: GARCH-in-Mean; includes the effect of conditional variance on the mean equation.
+			- TARCH: Threshold ARCH; models asymmetry, allowing positive and negative shocks to have different impacts.
+			- EGARCH: Exponential GARCH; accounts for asymmetry and models volatility logarithmically for exponential behavior.
+			- FIGARCH: Fractionally Integrated GARCH; models long memory in volatility shocks.
+			- FIEGARCH: Fractionally Integrated Exponential GARCH; combines long memory and exponential behavior of volatility. 
+		- Compared models with Diebold Mariano
+			- Testing if a model has all the forecasting power of another + loss function comparison
+		- Compared final candidate with the random walk (best model for FX since 1983)
+		- Highlighted that the strategy increased Sharpe 2x over the full time frame 
+	- **EViews Oil**
+		- Final project for advanced econometrics course
+		- Modeled crude oil returns and volatility at a shorter horizon
+		- First real experience with data driven modeling
+		- Used a SETAR (self-exciting threshold autoregressive) to capture dependency of WTI on diesel fuel
+			- SETAR vs Markov -> endogenous (an AR with a threshold variable) vs exogenous (Markov transition matrix) regime switch
+## Internship project ideas
+- Quantitative Impact Study (QIS)
+- Scenario analysis under new government
+## Questions for them
+- How quantitative is your team? - want to know how ill be presenting the work I do 
+- How proprietary is RBC's data? Will I be working with internal portfolio data or rely on external sources?
