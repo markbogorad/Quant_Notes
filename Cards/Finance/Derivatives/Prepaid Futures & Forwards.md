@@ -10,4 +10,4 @@ tags:: #Finance
 
 ![[Pasted image 20240625175637.png]]
 - Decays exponentially at the rate of [[Implied Volatility]] ([[Exponential Distribution]])
-- Declines due to cost of carry, similar to Contago [[Contago & Backwardation Markets]]
+- Declines due to cost of carry, similar to Contago [[Contango & Backwardation Markets]]

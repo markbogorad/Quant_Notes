@@ -20,7 +20,7 @@ tags:: #MOC
 		- [[Derivatives of Matrices]]
 	- [[Covariance Matrix]]
 		- [[Covariance Manipulations]]
-		- [[Principle Component Analysis (PCA)]]
+		- [[PCA]]
 		- [[Correlation Matrix]]
 	- [[Hessian Matrices]]
 	- [[Matrix Decomposition]]

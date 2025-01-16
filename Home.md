@@ -24,7 +24,7 @@ tags:: #Home
 	- 160 - [[Differential Equations MOC]]
 	- 170 - [[Proofs MOC]]
 	- 180 - [[Game Theory MOC]]
-- Machine Learning Methods
+- Machine Learning
 	- 210 - [[Time Series MOC]]
 	- 220 - [[Supervised Learning MOC]]
 	- 230 - [[Unsupervised Learning MOC]]
@@ -43,6 +43,7 @@ tags:: #Home
 	- 370 - [[Banking MOC]]
 	- 380 - [[FX MOC]]
 	- 390 - [[Real Estate MOC]]
-	- 400 - [[Commodities MOC]]
+	- 400 - [[Quantitative Valuation MOC]]
 	- 410 - [[Market Microstructure MOC]]
-	- 420 - [[Quantitative Valuation MOC]]
+	- 420 - [[Commodities MOC]]
+	- 430 - [[Oil Markets MOC]]

@@ -1,192 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "Risk Benchmark",
+      "path": "Cards/Quantitative_Valuation/Risk Benchmark.md"
+    },
+    {
+      "basename": "Quantitative Valuation MOC",
+      "path": "Atlas/Quantitative Valuation MOC.md"
+    },
+    {
+      "basename": "Sharpe Ratio",
+      "path": "Cards/Finance/Portfolio Theory/Sharpe Ratio.md"
+    },
+    {
+      "basename": "Oil Markets MOC",
+      "path": "+ Encounters/Oil Markets MOC.md"
+    },
+    {
+      "basename": "Algorithmic Trading in Oil",
+      "path": "+ Encounters/Algorithmic Trading in Oil.md"
+    },
+    {
+      "basename": "Reaction Function",
+      "path": "+ Encounters/Reaction Function.md"
+    },
+    {
+      "basename": "Oil Value Risk Premia",
+      "path": "+ Encounters/Oil Value Risk Premia.md"
+    },
+    {
+      "basename": "Contango & Backwardation Markets",
+      "path": "Cards/Finance/Derivatives/Contango & Backwardation Markets.md"
+    },
+    {
+      "basename": "Oil Carry Risk Premia",
+      "path": "+ Encounters/Oil Carry Risk Premia.md"
+    },
+    {
+      "basename": "OPEC+",
+      "path": "+ Encounters/OPEC+.md"
+    },
+    {
+      "basename": "Oil Momentum Risk Premia",
+      "path": "+ Encounters/Oil Momentum Risk Premia.md"
+    },
+    {
+      "basename": "Deep Learning MOC",
+      "path": "Atlas/Deep Learning MOC.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
     {
       "basename": "Supervised Learning MOC",
-      "path": "+ Encounters/Supervised Learning MOC.md"
+      "path": "Cards/Machine_Learning/Supervised Learning MOC.md"
     },
     {
-      "basename": "Supervised Learning",
-      "path": "+ Encounters/Supervised Learning.md"
-    },
-    {
-      "basename": "Multiple Class Classification",
-      "path": "+ Encounters/Multiple Class Classification.md"
-    },
-    {
-      "basename": "Regression",
-      "path": "+ Encounters/Regression.md"
-    },
-    {
-      "basename": "Unsupervised Learning",
-      "path": "+ Encounters/Unsupervised Learning.md"
-    },
-    {
-      "basename": "Logistic Regression",
-      "path": "+ Encounters/Logistic Regression.md"
-    },
-    {
-      "basename": "Classification",
-      "path": "+ Encounters/Classification.md"
+      "basename": "Filter Methods",
+      "path": "+ Encounters/Filter Methods.md"
     },
     {
       "basename": "Time Series MOC",
-      "path": "+ Encounters/Time Series MOC.md"
+      "path": "Atlas/Time Series MOC.md"
     },
     {
-      "basename": "Derivatives MOC",
-      "path": "Atlas/Derivatives MOC.md"
+      "basename": "Technical Indicators",
+      "path": "+ Encounters/Technical Indicators.md"
     },
     {
-      "basename": "Quantitative Valuation MOC",
-      "path": "+ Encounters/Quantitative Valuation MOC.md"
+      "basename": "Oil and Inflation",
+      "path": "+ Encounters/Oil and Inflation.md"
     },
     {
-      "basename": "Lintner CAPM",
-      "path": "+ Encounters/Lintner CAPM.md"
+      "basename": "Theory of Normal Contango",
+      "path": "+ Encounters/Theory of Normal Contango.md"
     },
     {
-      "basename": "RBC Prep",
-      "path": "+ Encounters/RBC Prep.md"
+      "basename": "Theory of Normal Backwardation",
+      "path": "+ Encounters/Theory of Normal Backwardation.md"
     },
     {
-      "basename": "Market Microstructure MOC",
-      "path": "+ Encounters/Market Microstructure MOC.md"
+      "basename": "Oil Hedging Equilibrium",
+      "path": "+ Encounters/Oil Hedging Equilibrium.md"
     },
     {
-      "basename": "FRM Midterm Review",
-      "path": "+ Encounters/FRM Midterm Review.md"
+      "basename": "Risk Parity (All Weather)",
+      "path": "+ Encounters/Risk Parity (All Weather).md"
     },
     {
-      "basename": "Dynamic Hedging",
-      "path": "+ Encounters/Dynamic Hedging.md"
+      "basename": "Oil Own Rate",
+      "path": "+ Encounters/Oil Own Rate.md"
     },
     {
-      "basename": "Mixing Distributions",
-      "path": "+ Encounters/Mixing Distributions.md"
+      "basename": "Convenience Yield",
+      "path": "+ Encounters/Convenience Yield.md"
     },
     {
-      "basename": "Implied Probability",
-      "path": "+ Encounters/Implied Probability.md"
+      "basename": "Storage Arbitrage",
+      "path": "+ Encounters/Storage Arbitrage.md"
     },
     {
-      "basename": "SVM",
-      "path": "+ Encounters/SVM.md"
+      "basename": "Oil Commodity",
+      "path": "+ Encounters/Oil Commodity.md"
     },
     {
-      "basename": "Linear Regression",
-      "path": "+ Encounters/Linear Regression.md"
+      "basename": "Model of the Squeeze",
+      "path": "+ Encounters/Model of the Squeeze.md"
     },
     {
-      "basename": "Machine Learning Miscellaneous MOC",
-      "path": "Atlas/Machine Learning Miscellaneous MOC.md"
+      "basename": "Canonical Theory of Storage",
+      "path": "+ Encounters/Canonical Theory of Storage.md"
     },
     {
-      "basename": "Kernel Ridge Regression",
-      "path": "+ Encounters/Kernel Ridge Regression.md"
-    },
-    {
-      "basename": "Unsupervised Learning MOC",
-      "path": "+ Encounters/Unsupervised Learning MOC.md"
-    },
-    {
-      "basename": "Fisher Equation (Inflation)",
-      "path": "+ Encounters/Fisher Equation (Inflation).md"
-    },
-    {
-      "basename": "Control Variate",
-      "path": "+ Encounters/Control Variate.md"
-    },
-    {
-      "basename": "Cholesky Decomposition",
-      "path": "Cards/Math/LinAlg/Cholesky Decomposition.md"
-    },
-    {
-      "basename": "Markowitz Model",
-      "path": "+ Encounters/Markowitz Model.md"
-    },
-    {
-      "basename": "Sharpe CAPM",
-      "path": "+ Encounters/Sharpe CAPM.md"
-    },
-    {
-      "basename": "Moment Matching",
-      "path": "+ Encounters/Moment Matching.md"
-    },
-    {
-      "basename": "Bond Spot and Forward Rate Relationship",
-      "path": "+ Encounters/Bond Spot and Forward Rate Relationship.md"
-    },
-    {
-      "basename": "GVE Event Based",
-      "path": "+ Encounters/GVE Event Based.md"
-    },
-    {
-      "basename": "Portfolio Theory and Valuation",
-      "path": "+ Encounters/Portfolio Theory and Valuation.md"
-    },
-    {
-      "basename": "GVE Futures & Forwards",
-      "path": "+ Encounters/GVE Futures & Forwards.md"
-    },
-    {
-      "basename": "Cash and Carry Arbitrage",
-      "path": "+ Encounters/Cash and Carry Arbitrage.md"
-    },
-    {
-      "basename": "Multivariate Simulation (Correlating Cash Flows)",
-      "path": "+ Encounters/Multivariate Simulation (Correlating Cash Flows).md"
+      "basename": "Feedback Loop in Oil",
+      "path": "+ Encounters/Feedback Loop in Oil.md"
     },
     {
       "basename": "Mean Reversion Process (Ornstein-Uhlenbeck)",
-      "path": "+ Encounters/Mean Reversion Process (Ornstein-Uhlenbeck).md"
+      "path": "Cards/Quantitative_Valuation/Mean Reversion Process (Ornstein-Uhlenbeck).md"
     },
     {
-      "basename": "Jump Process",
-      "path": "+ Encounters/Jump Process.md"
+      "basename": "Dynamic Theory of Storage",
+      "path": "+ Encounters/Dynamic Theory of Storage.md"
     },
     {
-      "basename": "Geometric Random Walk",
-      "path": "Cards/Math/Stochal/Geometric Random Walk.md"
+      "basename": "Roll Yield",
+      "path": "+ Encounters/Roll Yield.md"
     },
     {
-      "basename": "Simulation in Finance",
-      "path": "+ Encounters/Simulation in Finance.md"
+      "basename": "Black-Scholes",
+      "path": "Cards/Computer_Science/C++/Black-Scholes.md"
     },
     {
-      "basename": "Risk Benchmark",
-      "path": "+ Encounters/Risk Benchmark.md"
+      "basename": "Strategic Petroleum Reserve (SPR)",
+      "path": "+ Encounters/Strategic Petroleum Reserve (SPR).md"
     },
     {
-      "basename": "GVE Simple Computations",
-      "path": "+ Encounters/GVE Simple Computations.md"
+      "basename": "Cash and Carry Arbitrage",
+      "path": "Cards/Quantitative_Valuation/Cash and Carry Arbitrage.md"
     },
     {
-      "basename": "General Valuation Equation (GVE)",
-      "path": "+ Encounters/General Valuation Equation (GVE).md"
+      "basename": "Commodities MOC",
+      "path": "Atlas/Commodities MOC.md"
     },
     {
-      "basename": "Financial vs Non-Financial Forwards",
-      "path": "+ Encounters/Financial vs Non-Financial Forwards.md"
+      "basename": "Real Options",
+      "path": "+ Encounters/Real Options.md"
     },
     {
-      "basename": "Futures and Forwards in Valuation",
-      "path": "+ Encounters/Futures and Forwards in Valuation.md"
+      "basename": "Oil Spread Option",
+      "path": "+ Encounters/Oil Spread Option.md"
     },
     {
-      "basename": "FX Rates and Forwards",
-      "path": "+ Encounters/FX Rates and Forwards.md"
+      "basename": "Physical vs Financial Energy Markets",
+      "path": "Cards/Finance/Commodities/Physical vs Financial Energy Markets.md"
     },
     {
-      "basename": "Opportunity Cost (Valuation)",
-      "path": "+ Encounters/Opportunity Cost (Valuation).md"
+      "basename": "PCA",
+      "path": "Cards/Math/Calc/PCA.md"
     },
     {
-      "basename": "Implications of Limited Liability on Valuation",
-      "path": "+ Encounters/Implications of Limited Liability on Valuation.md"
+      "basename": "Kernel PCA",
+      "path": "+ Encounters/Kernel PCA.md"
+    },
+    {
+      "basename": "Unsupervised Learning MOC",
+      "path": "Atlas/Unsupervised Learning MOC.md"
+    },
+    {
+      "basename": "LDA",
+      "path": "+ Encounters/LDA.md"
+    },
+    {
+      "basename": "Expectation Maximization",
+      "path": "+ Encounters/Expectation Maximization.md"
+    },
+    {
+      "basename": "Hierarchical Clustering Analysis (HCA)",
+      "path": "+ Encounters/Hierarchical Clustering Analysis (HCA).md"
+    },
+    {
+      "basename": "Gaussian Mixtures",
+      "path": "+ Encounters/Gaussian Mixtures.md"
+    },
+    {
+      "basename": "K-Means Clustering",
+      "path": "+ Encounters/K-Means Clustering.md"
+    },
+    {
+      "basename": "Unsupervised Learning",
+      "path": "Cards/Machine_Learning/Unsupervised Learning.md"
+    },
+    {
+      "basename": "Clustering",
+      "path": "Cards/Machine_Learning/Clustering.md"
+    },
+    {
+      "basename": "Iterative Selection",
+      "path": "+ Encounters/Iterative Selection.md"
     }
   ],
   "omittedPaths": [],

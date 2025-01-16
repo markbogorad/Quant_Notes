@@ -1,5 +1,5 @@
 up:: [[Home]]
-tags:: #MOC #Math
+tags:: #MOC
 # Calculus MOC
 ## Limits
 - [[Limits]]
