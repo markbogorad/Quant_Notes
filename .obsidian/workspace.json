@@ -768,6 +768,168 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":10},\"to\":{\"line\":50,\"ch\":10}},\"scroll\":49.409853528628496}"
+                },
+                {
+                  "title": "Black-Scholes in Diffusions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Black-Scholes in Diffusions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Black-Scholes in Diffusions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":9},\"to\":{\"line\":52,\"ch\":9}},\"scroll\":45.423044337757695}"
+                },
+                {
+                  "title": "Macro Oil Fair-Value Model",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Macro Oil Fair-Value Model.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Macro Oil Fair-Value Model\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":20},\"to\":{\"line\":48,\"ch\":20}},\"scroll\":42.13357808528664}"
+                },
+                {
+                  "title": "Oil and USD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil and USD.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil and USD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":13},\"to\":{\"line\":42,\"ch\":13}},\"scroll\":20.4380118610562}"
+                },
+                {
+                  "title": "Transportation Arbitrage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Transportation Arbitrage.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Transportation Arbitrage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":19},\"to\":{\"line\":36,\"ch\":19}},\"scroll\":9.665913583733408}"
+                },
+                {
+                  "title": "Oil Curve Convexity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Curve Convexity.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Curve Convexity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":10},\"to\":{\"line\":27,\"ch\":10}},\"scroll\":3.830359520639148}"
+                },
+                {
+                  "title": "Energy Statistical Arbitrage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Energy Statistical Arbitrage.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Energy Statistical Arbitrage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":18},\"to\":{\"line\":35,\"ch\":18}},\"scroll\":27.782829709121717}"
+                },
+                {
+                  "title": "WTI-Brent Accordion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/WTI-Brent Accordion.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"WTI-Brent Accordion\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":20},\"to\":{\"line\":34,\"ch\":20}},\"scroll\":21.996271637816246}"
+                },
+                {
+                  "title": "Time (Calendar) Spreads",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Time (Calendar) Spreads.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Spreads\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":11},\"to\":{\"line\":31,\"ch\":11}},\"scroll\":21.774700399467378}"
+                },
+                {
+                  "title": "Quantamental Oil Trading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Quantamental Oil Trading.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Quantamental Oil Trading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":11},\"to\":{\"line\":30,\"ch\":11}},\"scroll\":24.637955379836203}"
+                },
+                {
+                  "title": "Convex Backwardation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Convex Backwardation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convex Backwardation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":16},\"to\":{\"line\":29,\"ch\":16}},\"scroll\":12.196272239480372}"
+                },
+                {
+                  "title": "Oil Curve Convexity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Curve Convexity.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Curve Convexity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":16},\"to\":{\"line\":27,\"ch\":16}},\"scroll\":8.039254447896074}"
+                },
+                {
+                  "title": "Concave Contango",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Concave Contango.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Concave Contango\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":14},\"to\":{\"line\":28,\"ch\":14}},\"scroll\":16.49788195425021}"
+                },
+                {
+                  "title": "Oil Curve Convexity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Curve Convexity.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Curve Convexity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":16},\"to\":{\"line\":27,\"ch\":16}},\"scroll\":11.437164642756283}"
+                },
+                {
                   "title": "Algorithmic Trading in Oil",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Algorithmic Trading in Oil.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Algorithmic Trading in Oil\"}",
@@ -1036,13 +1198,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Oil Markets MOC.md",
+                "file": "+ Encounters/Stochastic Diffusion Equations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oil Markets MOC"
+              "title": "Stochastic Diffusion Equations"
             }
           },
           {
@@ -1054,6 +1216,156 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Black-Scholes in Diffusions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Black-Scholes in Diffusions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Black-Scholes in Diffusions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":26},\"to\":{\"line\":52,\"ch\":26}},\"scroll\":40.217735103078226}"
+                },
+                {
+                  "title": "Local Volatility",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Local Volatility.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Local Volatility\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":11},\"to\":{\"line\":0,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":12},\"to\":{\"line\":51,\"ch\":12}},\"scroll\":32.91584298220842}"
+                },
+                {
+                  "title": "Diffusions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Stochastic Diffusion Equations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Diffusions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":11},\"to\":{\"line\":50,\"ch\":11}},\"scroll\":44.356678904264335}"
+                },
+                {
+                  "title": "Macro Oil Fair-Value Model",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Macro Oil Fair-Value Model.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Macro Oil Fair-Value Model\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":23},\"to\":{\"line\":48,\"ch\":23}},\"scroll\":37.1090087545891}"
+                },
+                {
+                  "title": "Oil and USD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil and USD.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil and USD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":14},\"to\":{\"line\":42,\"ch\":14}},\"scroll\":28.7949731714205}"
+                },
+                {
+                  "title": "Feedback Loop in Oil",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Feedback Loop in Oil.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Feedback Loop in Oil\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":13},\"to\":{\"line\":41,\"ch\":13}},\"scroll\":33.16887884778311}"
+                },
+                {
+                  "title": "Macro Oil Fair-Value Model",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Macro Oil Fair-Value Model.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Macro Oil Fair-Value Model\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":20},\"to\":{\"line\":0,\"ch\":20}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":23},\"to\":{\"line\":46,\"ch\":23}},\"scroll\":34.75939000282406}"
+                },
+                {
+                  "title": "Feedback Loop in Oil",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Feedback Loop in Oil.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Feedback Loop in Oil\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":12},\"to\":{\"line\":41,\"ch\":12}},\"scroll\":27.818977689918103}"
+                },
+                {
+                  "title": "Energy Statistical Arbitrage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Energy Statistical Arbitrage.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Energy Statistical Arbitrage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":16},\"to\":{\"line\":0,\"ch\":16}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":20},\"to\":{\"line\":38,\"ch\":20}},\"scroll\":21.55859926574414}"
+                },
+                {
+                  "title": "Crack Spread",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Crack Spread.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Crack Spread\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}}}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":14},\"to\":{\"line\":7,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Time (Calendar) Spreads",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Time (Calendar) Spreads.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Spreads\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":12},\"to\":{\"line\":32,\"ch\":12}},\"scroll\":14.25670714487433}"
+                },
+                {
+                  "title": "Concave Contango",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Concave Contango.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Concave Contango\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":15},\"to\":{\"line\":28,\"ch\":15}},\"scroll\":8.509178198249082}"
+                },
+                {
+                  "title": "Oil Momentum Risk Premia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Momentum Risk Premia.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Momentum Risk Premia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
                 },
                 {
                   "title": "Oil Markets MOC",
@@ -2092,13 +2404,301 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Oil Momentum Risk Premia.md",
+                "file": "+ Encounters/Oil Markets MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oil Momentum Risk Premia"
+              "title": "Oil Markets MOC"
+            }
+          },
+          {
+            "id": "cea61424593bf38a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Quadratic Normal Model",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Quadratic Normal Model.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Quadratic Normal Model\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":12},\"to\":{\"line\":64,\"ch\":12}},\"scroll\":55.37051680316295}"
+                },
+                {
+                  "title": "Stickiness (Oil)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Stickiness (Oil).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stickiness (Oil)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":10},\"to\":{\"line\":63,\"ch\":10}},\"scroll\":54.57526122564247}"
+                },
+                {
+                  "title": "Skew Delta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Skew Delta.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Skew Delta\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":9},\"to\":{\"line\":62,\"ch\":9}},\"scroll\":46.1460039536854}"
+                },
+                {
+                  "title": "Volatility Market Making",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Volatility Market Making.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Volatility Market Making\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":11},\"to\":{\"line\":0,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":18},\"to\":{\"line\":61,\"ch\":18}},\"scroll\":36.639085004236094}"
+                },
+                {
+                  "title": "Volatility Smile Trading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Volatility Smile Trading.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Volatility Smile Trading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":25},\"to\":{\"line\":60,\"ch\":25}},\"scroll\":46.21829991527817}"
+                },
+                {
+                  "title": "Hedging and Regime Changes in Oil",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Hedging and Regime Changes in Oil.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hedging and Regime Changes in Oil\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":11},\"to\":{\"line\":58,\"ch\":11}},\"scroll\":51.538830838746115}"
+                },
+                {
+                  "title": "Negative Gamma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Negative Gamma.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative Gamma\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":14},\"to\":{\"line\":57,\"ch\":14}},\"scroll\":44.519344817848065}"
+                },
+                {
+                  "title": "Oil Delta Hedging",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Delta Hedging.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Delta Hedging\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":14},\"to\":{\"line\":56,\"ch\":14}},\"scroll\":37.90426433210958}"
+                },
+                {
+                  "title": "Options and Heat Transfer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Options and Heat Transfer.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Options and Heat Transfer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":13},\"to\":{\"line\":55,\"ch\":13}},\"scroll\":32.77125105902287}"
+                },
+                {
+                  "title": "Heat Equation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Heat Equation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Heat Equation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":11},\"to\":{\"line\":54,\"ch\":11}},\"scroll\":33.747246540525275}"
+                },
+                {
+                  "title": "Option Replication with Futures",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Option Replication with Futures.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Option Replication with Futures\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":19},\"to\":{\"line\":53,\"ch\":19}},\"scroll\":37.831968370516805}"
+                },
+                {
+                  "title": "Local Volatility",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Local Volatility.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Local Volatility\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":20},\"to\":{\"line\":0,\"ch\":20}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":14},\"to\":{\"line\":51,\"ch\":14}},\"scroll\":28.0720135554928}"
+                },
+                {
+                  "title": "XOP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/XOP.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"XOP\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":11},\"to\":{\"line\":0,\"ch\":11}}}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":7},\"to\":{\"line\":5,\"ch\":7}}}"
+                },
+                {
+                  "title": "Cross-Asset Spread",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Cross-Asset Spread.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cross-Asset Spread\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":17},\"to\":{\"line\":42,\"ch\":17}},\"scroll\":24.312623552668736}"
+                },
+                {
+                  "title": "Oil and OPEC Currencies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil and OPEC Currencies.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil and OPEC Currencies\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":17},\"to\":{\"line\":43,\"ch\":17}},\"scroll\":29.12030499858797}"
+                },
+                {
+                  "title": "WTI-Brent Accordion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/WTI-Brent Accordion.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"WTI-Brent Accordion\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":18},\"to\":{\"line\":35,\"ch\":18}},\"scroll\":21.07589880159787}"
+                },
+                {
+                  "title": "Oil Inventory Trading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Inventory Trading.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Inventory Trading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":20},\"to\":{\"line\":0,\"ch\":20}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":12},\"to\":{\"line\":33,\"ch\":12}},\"scroll\":15.847218299915278}"
+                },
+                {
+                  "title": "Oil Spread Option",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Spread Option.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Spread Option\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":17},\"to\":{\"line\":32,\"ch\":17}},\"scroll\":15.3049985879695}"
+                },
+                {
+                  "title": "Time (Calendar) Spreads",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Time (Calendar) Spreads.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Spreads\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":15},\"to\":{\"line\":31,\"ch\":15}},\"scroll\":21.007723035952065}"
+                },
+                {
+                  "title": "Reaction Function",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Reaction Function.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Reaction Function\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":21},\"to\":{\"line\":0,\"ch\":21}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":17},\"to\":{\"line\":27,\"ch\":17}},\"scroll\":9.26828579497317}"
+                },
+                {
+                  "title": "Contango & Backwardation Markets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Finance/Derivatives/Contango & Backwardation Markets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Contango & Backwardation Markets\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":13},\"to\":{\"line\":15,\"ch\":13}},\"scroll\":3.1912117177097206}"
+                },
+                {
+                  "title": "OPEC+",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/OPEC+.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"OPEC+\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}}}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":6},\"to\":{\"line\":20,\"ch\":6}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/Oil Markets MOC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oil Markets MOC"
             }
           },
           {
@@ -2110,6 +2710,84 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Oil and Energy Equities",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil and Energy Equities.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil and Energy Equities\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":19},\"to\":{\"line\":44,\"ch\":19}},\"scroll\":23.608913813459267}"
+                },
+                {
+                  "title": "Oil and USD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil and USD.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil and USD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":12},\"to\":{\"line\":42,\"ch\":12}},\"scroll\":24.87291725501271}"
+                },
+                {
+                  "title": "Positioning Analysis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Positioning Analysis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Positioning Analysis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}}}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":19},\"to\":{\"line\":39,\"ch\":19}},\"scroll\":17.618469358938153}"
+                },
+                {
+                  "title": "Oil Momentum Risk Premia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Momentum Risk Premia.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Momentum Risk Premia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":16},\"to\":{\"line\":0,\"ch\":16}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":13},\"to\":{\"line\":24,\"ch\":13}},\"scroll\":19.371646427562837}"
+                },
+                {
+                  "title": "Fractionation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Fractionation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fractionation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":11},\"to\":{\"line\":31,\"ch\":11}},\"scroll\":13.027675797797233}"
+                },
+                {
+                  "title": "Convex Backwardation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Convex Backwardation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convex Backwardation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":16},\"to\":{\"line\":29,\"ch\":16}},\"scroll\":12.81078791301892}"
+                },
+                {
+                  "title": "Oil Carry Risk Premia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Carry Risk Premia.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Carry Risk Premia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
                 },
                 {
                   "title": "Oil Markets MOC",
@@ -2236,13 +2914,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Oil Carry Risk Premia.md",
+                "file": "+ Encounters/Oil Markets MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oil Carry Risk Premia"
+              "title": "Oil Markets MOC"
             }
           },
           {
@@ -2254,6 +2932,60 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Oil and Inflation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil and Inflation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil and Inflation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":11},\"to\":{\"line\":45,\"ch\":11}},\"scroll\":22.627030625832223}"
+                },
+                {
+                  "title": "Oil Sentiment Analysis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Sentiment Analysis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Sentiment Analysis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":15},\"to\":{\"line\":39,\"ch\":15}},\"scroll\":20.221123976277887}"
+                },
+                {
+                  "title": "Time (Calendar) Spreads",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Time (Calendar) Spreads.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time (Calendar) Spreads\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":14},\"to\":{\"line\":31,\"ch\":14}},\"scroll\":7.2439988703756}"
+                },
+                {
+                  "title": "Quantamental Oil Trading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Quantamental Oil Trading.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Quantamental Oil Trading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oil Markets MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":22},\"to\":{\"line\":30,\"ch\":22}},\"scroll\":16.06410618469359}"
+                },
+                {
+                  "title": "Oil Value Risk Premia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Value Risk Premia.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Value Risk Premia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}},\"scroll\":0}"
                 },
                 {
                   "title": "Oil Markets MOC",
@@ -2392,107 +3124,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Oil Value Risk Premia.md",
+                "file": "+ Encounters/Oil Markets MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oil Value Risk Premia"
-            }
-          },
-          {
-            "id": "cea61424593bf38a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Oil Markets MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":17},\"to\":{\"line\":27,\"ch\":17}},\"scroll\":9.26828579497317}"
-                },
-                {
-                  "title": "Contango & Backwardation Markets",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Finance/Derivatives/Contango & Backwardation Markets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Contango & Backwardation Markets\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
-                },
-                {
-                  "title": "Oil Markets MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":13},\"to\":{\"line\":15,\"ch\":13}},\"scroll\":3.1912117177097206}"
-                },
-                {
-                  "title": "OPEC+",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/OPEC+.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"OPEC+\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}}}"
-                },
-                {
-                  "title": "Oil Markets MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Oil Markets MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Oil Markets MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":6},\"to\":{\"line\":20,\"ch\":6}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/Reaction Function.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reaction Function"
-            }
-          },
-          {
-            "id": "9ff70495d0eb0f66",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Quantitative Valuation MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Quantitative Valuation MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Quantitative Valuation MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":14},\"to\":{\"line\":68,\"ch\":14}},\"scroll\":50.845336481700116}"
-                },
-                {
-                  "title": "Sharpe Ratio",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Finance/Portfolio Theory/Sharpe Ratio.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sharpe Ratio\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":44},\"to\":{\"line\":0,\"ch\":44}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/Quantitative_Valuation/Risk Benchmark.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Risk Benchmark"
+              "title": "Oil Markets MOC"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -2548,8 +3190,14 @@
             "id": "04dcc26c0ee27b0e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Operators",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/C++/Operators.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Operators\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -2824,7 +3472,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Quantitative_Valuation/Risk Benchmark.md",
+                "file": "+ Encounters/Oil Markets MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -2834,7 +3482,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Risk Benchmark"
+              "title": "Backlinks for Oil Markets MOC"
             }
           },
           {
@@ -2877,44 +3525,45 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "9ff70495d0eb0f66",
+  "active": "66539bef2b28e34a",
   "lastOpenFiles": [
-    "README.md",
-    "Atlas/Quantitative Valuation MOC.md",
-    "Cards/Finance/Portfolio Theory/Sharpe Ratio.md",
+    "+ Encounters/Stochastic Diffusion Equations.md",
     "+ Encounters/Oil Markets MOC.md",
-    "+ Encounters/Algorithmic Trading in Oil.md",
-    "+ Encounters/Reaction Function.md",
-    "Extras/Images/Pasted image 20250115120508.png",
-    "+ Encounters/Oil Value Risk Premia.md",
-    "Cards/Finance/Derivatives/Contango & Backwardation Markets.md",
-    "+ Encounters/Oil Carry Risk Premia.md",
-    "+ Encounters/OPEC+.md",
-    "Extras/Images/Pasted image 20250115101107.png",
-    "+ Encounters/Oil Momentum Risk Premia.md",
-    "Atlas/Deep Learning MOC.md",
-    "Home.md",
-    "Cards/Machine_Learning/Supervised Learning MOC.md",
-    "+ Encounters/Filter Methods.md",
-    "Atlas/Time Series MOC.md",
-    "+ Encounters/Technical Indicators.md",
-    "+ Encounters/Oil Inflation Hedging.md",
+    "+ Encounters/Black-Scholes in Diffusions.md",
+    "+ Encounters/Quadratic Normal Model.md",
+    "+ Encounters/Stickiness (Oil).md",
+    "+ Encounters/Skew Delta.md",
+    "+ Encounters/Volatility Market Making.md",
+    "+ Encounters/Volatility Smile Trading.md",
+    "+ Encounters/Hedging and Regime Changes in Oil.md",
+    "+ Encounters/Negative Gamma.md",
+    "+ Encounters/Oil Delta Hedging.md",
+    "+ Encounters/Options and Heat Transfer.md",
+    "+ Encounters/Heat Equation.md",
+    "+ Encounters/Option Replication with Futures.md",
+    "+ Encounters/Local Volatility.md",
+    "+ Encounters/Macro Oil Fair-Value Model.md",
+    "+ Encounters/Oil and USD.md",
+    "+ Encounters/XOP.md",
+    "+ Encounters/Oil and Energy Equities.md",
     "+ Encounters/Oil and Inflation.md",
-    "+ Encounters/Theory of Normal Contango.md",
-    "+ Encounters/Inconvenience Yield.md",
-    "Extras/Images/Pasted image 20250113114242.png",
-    "Extras/Images/Pasted image 20250113114129.png",
-    "+ Encounters/Theory of Normal Backwardation.md",
-    "Extras/Images/Pasted image 20250113114052.png",
-    "Extras/Images/Pasted image 20250113114039.png",
-    "Extras/Images/Pasted image 20250113114030.png",
-    "+ Encounters/Oil Hedging Equilibrium.md",
-    "+ Encounters/Risk Parity (All Weather).md",
-    "+ Encounters/Risk Premia in Contango and Backwardation.md",
-    "+ Encounters/Oil Own Rate.md",
-    "Extras/Images/Pasted image 20250107142325.png",
-    "Extras/Images/Pasted image 20250105173158.png",
-    "Extras/Images/Pasted image 20250105173151.png",
+    "Extras/Images/Pasted image 20250118085549.png",
+    "Extras/Images/Pasted image 20250118085540.png",
+    "Extras/Images/Pasted image 20250118085528.png",
+    "Extras/Images/Screenshot 2025-01-18 at 8.54.55 AM.png",
+    "+ Encounters/Cross-Asset Spread.md",
+    "+ Encounters/Oil and OPEC Currencies.md",
+    "Extras/Images/Pasted image 20250118083156.png",
+    "+ Encounters/Feedback Loop in Oil.md",
+    "Extras/Images/Pasted image 20250117212007.png",
+    "+ Encounters/Oil Sentiment Analysis.md",
+    "+ Encounters/WTI-Brent Accordion.md",
+    "+ Encounters/Positioning Analysis.md",
+    "Extras/Images/Pasted image 20250117200914.png",
+    "Extras/Images/Pasted image 20250117195704.png",
+    "Extras/Images/Pasted image 20250116100019.png",
+    "Extras/Images/Pasted image 20250116095223.png",
+    "Cards/C++",
     "Cards/Quantitative_Valuation",
     "Cards/Probability",
     "Cards/Math/Statistics/Probability",
@@ -2924,7 +3573,6 @@
     "Cards/Math/LinAlg",
     "Cards/Math/Calc",
     "Cards/Math",
-    "Cards/Machine_Learning/Econometrics",
     "Untitled.canvas"
   ]
 }

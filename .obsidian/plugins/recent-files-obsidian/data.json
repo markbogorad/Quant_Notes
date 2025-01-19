@@ -1,6 +1,182 @@
 {
   "recentFiles": [
     {
+      "basename": "Oil Markets MOC",
+      "path": "+ Encounters/Oil Markets MOC.md"
+    },
+    {
+      "basename": "Stochastic Diffusion Equations",
+      "path": "+ Encounters/Stochastic Diffusion Equations.md"
+    },
+    {
+      "basename": "Black-Scholes in Diffusions",
+      "path": "+ Encounters/Black-Scholes in Diffusions.md"
+    },
+    {
+      "basename": "Quadratic Normal Model",
+      "path": "+ Encounters/Quadratic Normal Model.md"
+    },
+    {
+      "basename": "Stickiness (Oil)",
+      "path": "+ Encounters/Stickiness (Oil).md"
+    },
+    {
+      "basename": "Skew Delta",
+      "path": "+ Encounters/Skew Delta.md"
+    },
+    {
+      "basename": "Volatility Market Making",
+      "path": "+ Encounters/Volatility Market Making.md"
+    },
+    {
+      "basename": "Volatility Smile Trading",
+      "path": "+ Encounters/Volatility Smile Trading.md"
+    },
+    {
+      "basename": "Hedging and Regime Changes in Oil",
+      "path": "+ Encounters/Hedging and Regime Changes in Oil.md"
+    },
+    {
+      "basename": "Negative Gamma",
+      "path": "+ Encounters/Negative Gamma.md"
+    },
+    {
+      "basename": "Oil Delta Hedging",
+      "path": "+ Encounters/Oil Delta Hedging.md"
+    },
+    {
+      "basename": "Options and Heat Transfer",
+      "path": "+ Encounters/Options and Heat Transfer.md"
+    },
+    {
+      "basename": "Heat Equation",
+      "path": "+ Encounters/Heat Equation.md"
+    },
+    {
+      "basename": "Option Replication with Futures",
+      "path": "+ Encounters/Option Replication with Futures.md"
+    },
+    {
+      "basename": "Local Volatility",
+      "path": "+ Encounters/Local Volatility.md"
+    },
+    {
+      "basename": "Macro Oil Fair-Value Model",
+      "path": "+ Encounters/Macro Oil Fair-Value Model.md"
+    },
+    {
+      "basename": "Oil and USD",
+      "path": "+ Encounters/Oil and USD.md"
+    },
+    {
+      "basename": "XOP",
+      "path": "+ Encounters/XOP.md"
+    },
+    {
+      "basename": "Oil and Energy Equities",
+      "path": "+ Encounters/Oil and Energy Equities.md"
+    },
+    {
+      "basename": "Oil and Inflation",
+      "path": "+ Encounters/Oil and Inflation.md"
+    },
+    {
+      "basename": "Cross-Asset Spread",
+      "path": "+ Encounters/Cross-Asset Spread.md"
+    },
+    {
+      "basename": "Oil and OPEC Currencies",
+      "path": "+ Encounters/Oil and OPEC Currencies.md"
+    },
+    {
+      "basename": "Feedback Loop in Oil",
+      "path": "+ Encounters/Feedback Loop in Oil.md"
+    },
+    {
+      "basename": "Oil Sentiment Analysis",
+      "path": "+ Encounters/Oil Sentiment Analysis.md"
+    },
+    {
+      "basename": "WTI-Brent Accordion",
+      "path": "+ Encounters/WTI-Brent Accordion.md"
+    },
+    {
+      "basename": "Positioning Analysis",
+      "path": "+ Encounters/Positioning Analysis.md"
+    },
+    {
+      "basename": "Transportation Arbitrage",
+      "path": "+ Encounters/Transportation Arbitrage.md"
+    },
+    {
+      "basename": "Energy Statistical Arbitrage",
+      "path": "+ Encounters/Energy Statistical Arbitrage.md"
+    },
+    {
+      "basename": "Oil Momentum Risk Premia",
+      "path": "+ Encounters/Oil Momentum Risk Premia.md"
+    },
+    {
+      "basename": "Time (Calendar) Spreads",
+      "path": "+ Encounters/Time (Calendar) Spreads.md"
+    },
+    {
+      "basename": "Python MOC",
+      "path": "Atlas/Python MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Crack Spread",
+      "path": "+ Encounters/Crack Spread.md"
+    },
+    {
+      "basename": "Oil Inventory Trading",
+      "path": "+ Encounters/Oil Inventory Trading.md"
+    },
+    {
+      "basename": "Fractionation",
+      "path": "+ Encounters/Fractionation.md"
+    },
+    {
+      "basename": "Oil Spread Option",
+      "path": "+ Encounters/Oil Spread Option.md"
+    },
+    {
+      "basename": "Quantamental Oil Trading",
+      "path": "+ Encounters/Quantamental Oil Trading.md"
+    },
+    {
+      "basename": "Convex Backwardation",
+      "path": "+ Encounters/Convex Backwardation.md"
+    },
+    {
+      "basename": "Concave Contango",
+      "path": "+ Encounters/Concave Contango.md"
+    },
+    {
+      "basename": "Oil Curve Convexity",
+      "path": "+ Encounters/Oil Curve Convexity.md"
+    },
+    {
+      "basename": "PCA",
+      "path": "Cards/Math/Calc/PCA.md"
+    },
+    {
+      "basename": "Reaction Function",
+      "path": "+ Encounters/Reaction Function.md"
+    },
+    {
+      "basename": "Oil Value Risk Premia",
+      "path": "+ Encounters/Oil Value Risk Premia.md"
+    },
+    {
+      "basename": "Oil Carry Risk Premia",
+      "path": "+ Encounters/Oil Carry Risk Premia.md"
+    },
+    {
       "basename": "Risk Benchmark",
       "path": "Cards/Quantitative_Valuation/Risk Benchmark.md"
     },
@@ -13,192 +189,16 @@
       "path": "Cards/Finance/Portfolio Theory/Sharpe Ratio.md"
     },
     {
-      "basename": "Oil Markets MOC",
-      "path": "+ Encounters/Oil Markets MOC.md"
-    },
-    {
       "basename": "Algorithmic Trading in Oil",
       "path": "+ Encounters/Algorithmic Trading in Oil.md"
-    },
-    {
-      "basename": "Reaction Function",
-      "path": "+ Encounters/Reaction Function.md"
-    },
-    {
-      "basename": "Oil Value Risk Premia",
-      "path": "+ Encounters/Oil Value Risk Premia.md"
     },
     {
       "basename": "Contango & Backwardation Markets",
       "path": "Cards/Finance/Derivatives/Contango & Backwardation Markets.md"
     },
     {
-      "basename": "Oil Carry Risk Premia",
-      "path": "+ Encounters/Oil Carry Risk Premia.md"
-    },
-    {
       "basename": "OPEC+",
       "path": "+ Encounters/OPEC+.md"
-    },
-    {
-      "basename": "Oil Momentum Risk Premia",
-      "path": "+ Encounters/Oil Momentum Risk Premia.md"
-    },
-    {
-      "basename": "Deep Learning MOC",
-      "path": "Atlas/Deep Learning MOC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Supervised Learning MOC",
-      "path": "Cards/Machine_Learning/Supervised Learning MOC.md"
-    },
-    {
-      "basename": "Filter Methods",
-      "path": "+ Encounters/Filter Methods.md"
-    },
-    {
-      "basename": "Time Series MOC",
-      "path": "Atlas/Time Series MOC.md"
-    },
-    {
-      "basename": "Technical Indicators",
-      "path": "+ Encounters/Technical Indicators.md"
-    },
-    {
-      "basename": "Oil and Inflation",
-      "path": "+ Encounters/Oil and Inflation.md"
-    },
-    {
-      "basename": "Theory of Normal Contango",
-      "path": "+ Encounters/Theory of Normal Contango.md"
-    },
-    {
-      "basename": "Theory of Normal Backwardation",
-      "path": "+ Encounters/Theory of Normal Backwardation.md"
-    },
-    {
-      "basename": "Oil Hedging Equilibrium",
-      "path": "+ Encounters/Oil Hedging Equilibrium.md"
-    },
-    {
-      "basename": "Risk Parity (All Weather)",
-      "path": "+ Encounters/Risk Parity (All Weather).md"
-    },
-    {
-      "basename": "Oil Own Rate",
-      "path": "+ Encounters/Oil Own Rate.md"
-    },
-    {
-      "basename": "Convenience Yield",
-      "path": "+ Encounters/Convenience Yield.md"
-    },
-    {
-      "basename": "Storage Arbitrage",
-      "path": "+ Encounters/Storage Arbitrage.md"
-    },
-    {
-      "basename": "Oil Commodity",
-      "path": "+ Encounters/Oil Commodity.md"
-    },
-    {
-      "basename": "Model of the Squeeze",
-      "path": "+ Encounters/Model of the Squeeze.md"
-    },
-    {
-      "basename": "Canonical Theory of Storage",
-      "path": "+ Encounters/Canonical Theory of Storage.md"
-    },
-    {
-      "basename": "Feedback Loop in Oil",
-      "path": "+ Encounters/Feedback Loop in Oil.md"
-    },
-    {
-      "basename": "Mean Reversion Process (Ornstein-Uhlenbeck)",
-      "path": "Cards/Quantitative_Valuation/Mean Reversion Process (Ornstein-Uhlenbeck).md"
-    },
-    {
-      "basename": "Dynamic Theory of Storage",
-      "path": "+ Encounters/Dynamic Theory of Storage.md"
-    },
-    {
-      "basename": "Roll Yield",
-      "path": "+ Encounters/Roll Yield.md"
-    },
-    {
-      "basename": "Black-Scholes",
-      "path": "Cards/Computer_Science/C++/Black-Scholes.md"
-    },
-    {
-      "basename": "Strategic Petroleum Reserve (SPR)",
-      "path": "+ Encounters/Strategic Petroleum Reserve (SPR).md"
-    },
-    {
-      "basename": "Cash and Carry Arbitrage",
-      "path": "Cards/Quantitative_Valuation/Cash and Carry Arbitrage.md"
-    },
-    {
-      "basename": "Commodities MOC",
-      "path": "Atlas/Commodities MOC.md"
-    },
-    {
-      "basename": "Real Options",
-      "path": "+ Encounters/Real Options.md"
-    },
-    {
-      "basename": "Oil Spread Option",
-      "path": "+ Encounters/Oil Spread Option.md"
-    },
-    {
-      "basename": "Physical vs Financial Energy Markets",
-      "path": "Cards/Finance/Commodities/Physical vs Financial Energy Markets.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "Cards/Math/Calc/PCA.md"
-    },
-    {
-      "basename": "Kernel PCA",
-      "path": "+ Encounters/Kernel PCA.md"
-    },
-    {
-      "basename": "Unsupervised Learning MOC",
-      "path": "Atlas/Unsupervised Learning MOC.md"
-    },
-    {
-      "basename": "LDA",
-      "path": "+ Encounters/LDA.md"
-    },
-    {
-      "basename": "Expectation Maximization",
-      "path": "+ Encounters/Expectation Maximization.md"
-    },
-    {
-      "basename": "Hierarchical Clustering Analysis (HCA)",
-      "path": "+ Encounters/Hierarchical Clustering Analysis (HCA).md"
-    },
-    {
-      "basename": "Gaussian Mixtures",
-      "path": "+ Encounters/Gaussian Mixtures.md"
-    },
-    {
-      "basename": "K-Means Clustering",
-      "path": "+ Encounters/K-Means Clustering.md"
-    },
-    {
-      "basename": "Unsupervised Learning",
-      "path": "Cards/Machine_Learning/Unsupervised Learning.md"
-    },
-    {
-      "basename": "Clustering",
-      "path": "Cards/Machine_Learning/Clustering.md"
-    },
-    {
-      "basename": "Iterative Selection",
-      "path": "+ Encounters/Iterative Selection.md"
     }
   ],
   "omittedPaths": [],

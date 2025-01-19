@@ -40,3 +40,5 @@ $$M_t(m,n)=MA_t(m)-MA_t(n),m<n$$
 - There are many parameters you can add and thresholds to overlay on top of traditional momentum strategies
 	- Bottom line is they underperform and result in random stuff
 	- Useful to include with other trades
+## Follow Smart Money
+- This strategy is momentum, but specifically for order flow of NCs (non commercial traders), who are smart money
