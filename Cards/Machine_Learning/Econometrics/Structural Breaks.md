@@ -2,7 +2,7 @@ up:: [[Time Series MOC]]
 tags:: #Machine_Learning 
 # Structural Breaks
 - When there is a shock to the data (pattern breaks unnaturally due to a specific event)
-- Double check if this is a regime switch [[Regime Switching Models]]
+- Double check if this is a regime switch 
 - If there is a break, restrict the model until after the break and re-estimate
 	- If not enough observations, you can try to recreate the sample without the break
 ## Tests

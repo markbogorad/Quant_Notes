@@ -1,7 +1,26 @@
-up:: [[Computer Science MOC]]
+up:: [[Computer Science MOC]], [[Data MOC]]
 tags:: #Programming  
 # Docker
 - A [[Containerization Tools]]
+- Packages app (like folder)
+- Includes everything it needs to run (code, libraries, dependencies),
+- Runs it in complete isolation, just like it would behave in production.
+- Putting a bunch of things in there (ex: [[Hadoop (Apache)]], [[Hive]], Python scripts, etc)
+- Important benefit
+	- Can avoid system crashing manual installs that will mess with the device
+- Used with [[AWS EC2]] 
+	- Basically sending the container to the host machine here
+```
+[ Your Local Laptop ] ← (SSH) → [ EC2 Instance (Linux) ]
+                                  |
+                                  └── Docker Engine
+                                       |
+                                       └── Container(s): Hortonworks Sandbox, Hive, Ambari...
+
+```
+
+
+
 
 **Key Concepts**
 - **Docker Images**:

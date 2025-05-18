@@ -51,10 +51,10 @@ tags:: #MOC
 - [[Simulation in Finance]]
 - [[Creating Z Values (Inverse CDF)]]
 - [[Variance Reduction Techniques (Simulation)]]
-	- [[Antithetic]]
+	- [[Antithetic Sampling]]
 	- [[Moment Matching]]
 		- [[Cholesky Decomposition]]
-	- [[Control Variate]]
+	- [[Control Variate Sampling]]
 - [[Multivariate Simulation (Correlating Cash Flows)]]
 	- [[Copulae (Simulation)]]
 ## Stochastic Processes

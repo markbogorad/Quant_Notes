@@ -1,8 +1,9 @@
-up:: [[Banking MOC]]
+up:: [[Risk Management MOC]]
 tags:: #Finance 
 # Basel
 - Basel Committee: only recommendations, no formal authority
 - Has a large voice however, virtually all regulation originates from their methods
+- Came up in 1974 post Herstatt debacle (couldn't process transactions after hours for American clients)
 ## Basel I (1988)
 - Introduced a minimum capital requirement of 8%
 	- First focused on credit risk, then incorporated market risk and then operational risk

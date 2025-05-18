@@ -7,6 +7,8 @@ tags:: #MOC
 	- [[Main Query Types]]
 	- [[CRUD Operations]]
 	- [[Nested Queries]]
+- [[SQL Join]]
+- [[SQL Casting]]
 ## Python Linkage
 - [[Reading .csv Files SQL]]
 	- [[Linking SQL to Python]]

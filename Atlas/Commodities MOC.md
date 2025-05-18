@@ -1,6 +1,7 @@
 up:: [[Home]]
 tags:: #MOC 
 # Commodities MOC
+- Commodities by Consumption & Investment
 ## Energy Markets General
 - Physical vs Financial Markets
 	- Physical: actual making or taking delivery of the commodity

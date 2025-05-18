@@ -1,4 +1,4 @@
-up:: [[Differential Equations MOC]]
+up:: [[Numerical Methods MOC]]
 tags:: #Math
 # Solution by Separation (ODEs)
 - For first order [[ODE]] only

@@ -1,51 +1,175 @@
-up:: [[Home]]
+,oup:: [[Home]]
 tags:: #MOC 
 # Risk Management MOC
-## Bank Risk Management
-> See [[Banking MOC]] for background
-- [[Market Risk]]
-- [[Credit Risk]]
-- [[Interest Rate Risk]]
-- [[Liquidity Risk]]
-- [[FX Risk]]
-- [[Sovereign Risk]]
-- [[Conduct Risk]]
+- [[Introduction to Advanced Risk Management]]
+	- [[Risk Management Toolkit]]
 - [[Off Balance Sheet Risk]]
-## a
-- Portfolio Risk
-	- Diversifiable Risk
-	- Non Diversifiable Risk
-- Top Down Portfolio
-	- (1) do an asset allocation, which means deciding how to spread your investment across broad asset classes such as cash, bonds, stocks, and real estate; (2) do security selection, which means deciding which securities to hold within each asset class; and (3) periodically revisiting these issues and rebalancing the portfolio accordingly.
-- Market Risk Specific to a Company
-	- Commodity Risk -> use oil derivatives to hedge, lots of things are cointegrated with oil
-	- Currency Risk -> affects imports and exports and can be hedged with usng currency derivatives
-	- Interest Rate Risk -> affect cost of borrowing, can be hedged with interest rate derivatives
-- Nonhedged risks --> risks that have no hedge (operational risk)
-## Options Trading Risk Management
-- [[Delta Hedging]]
-- [[Gamma Hedging]]
-- [[Vega Hedging]]
-Dynamic hedging in practice -179
-Wilmott 79:
-- Static Hedging
-- Super-hedging
-- Margin Hedging. 
-- Platinum Hedging
-## Hedging
-- Derivatives Hedging
-	- Hedging output price risk: A gold-mining company can fix the selling price of gold by selling gold futures.
-	-  Hedging input cost: A sausage maker can hedge input prices by buying pork belly futures.
-	-  Hedging currency risk: An American manufacturer buying machines from Germany for which the payment is due in three months can remove price risk from the dollar–euro exchange rates by buying a currency forward contract.
-	-  Hedging interest rate risk: A pension fund manager who is worried that her bond portfolio will get clobbered by rising interest rates can use Eurodollar futures (or options on those futures) to protect her portfolio.
-	-  Protecting a portfolio against a market meltdown: A money manager whose port- folio has reaped huge gains can protect these gains by buying put options.
-	-  Avoiding market restrictions: A trader can avoid short selling restrictions that an exchange might impose by taking a sell position in the options or the futures market.
-	-  Ruining oneself: A wretch can gamble away his inheritance with derivatives.
-- [[Hedging with Bonds]]
-- [[Hedging with Futures]]
-- [[Option Hedging]]
+- [[Sovereign Risk]]
+- [[Silicon Valley Bank]]
+- [[PnL Attribution]]
+## Banking Regulation
+- [[Bank of International Settlements (BIS)]]
+- [[Financial Stability Board (FSB)]]
+- [[Basel Regulation]]
+	- [[Pre Basel I]]
+		- [[Credit Risk]]
+	- [[Basel I]]
+		- [[Market Risk]]
+	- [[Basel II]]
+		- [[Operational Risk]]
+	- [[Basel 2.5]]
+		- Response to GFC, added correlation risk (CRM) for contagion
+	- [[Basel III]]
+		- [[Credit Valuation Adjustment (CVA)]]
+		- [[Bank Capital Ratios]]
+		- [[Liquidity Ratios]]
+	- [[FRTB (Basel IV)]]
+- [[Bank Capital]]
+- [[Risk Weighted Assets]]
+- [[Trading Book]]
+## EDA
+- [[EDA]]
+	- [[Univariate and Control]]
+	- [[Comparative and Screening]]
+	- [[Optimization and Regression]]
+	- [[Time Series and Multivariate]]
+	- [[Missing Data]]
+		- [[Brownian Bridge]]
+## Market Risk
+- [[Market Risk]]
+- [[Basis Risk]]
+	- [[London Whale]]
+- [[FX Risk]]
+	- [[Spot and Forward Sensitivities]]
+	- [[Volatility Sensitivities]]
+- [[Commodities Risk]]
+	- [[Price Sensitivity]]
+	- [[Volatility Sensitivity]]
+	- [[Basket Correlations]]
+	- [[Cross Gammas]]
+- [[Equity Risk]]
+	- [[Price Sensitivity]]
+	- [[Volatility Sensitivity]]
+	- [[Basket Correlations]]
+### VaR
+- [[Value at Risk (VaR)]]
+	- [[Variance Covariance VaR]]
+	- [[Fixed Income VaR]]
+	- [[Full Revaluation VaR]]
+	- [[Historical Simulation VaR]]
+	- [[Monte-Carlo Simulation VaR]]
+		- [[Covariance Matrix Decomposition]]
+			- [[Eigenvalue Decomposition]]
+			- [[Cholesky Decomposition]]
+		- [[Gaussian Copula]]
+	- [[Historical vs MC VaR]]
+		- [[Coherence Measure]]
+	- [[CVaR]]
+	- [[Backtesting VaR]]
+	- [[Stressed VaR]]
+- [[Expected Shortfall (ES)]]
+### Fixed Income Products & Risk
+- [[Bond Yields]]
+	- [[Price-Yield Relationship]]
+- [[Duration]]
+	- [[Dollar Duration]]
+	- [[DV01]]
+	- [[IR Duration PV01]]
+	- [[Spread PV01]]
+	- [[Option Adjusted Spread Duration]]
+- [[Convexity]]
+- [[Bond Default Valuation]]
+- [[Interest Rate Risk]]
+- [[Mortgage Backed Securities Risk]]
+- Frequency and Liquidity Spreads
+- [[Fixed Income VaR]]
+### L5
+- Key difference between historical and simulation
+	- Simulation assumes some distribution
+	- Historical uses the theory that natural data carries natural correlations best
+- Historical VaR preserve historical correlation when you aggregate PnL on the same date
+- Grids in VaR
+	- A line of all order derivatives on a single dimension
+	- Done with a Taylor series
+		- PnL decomopisition
+- Revalued VaR
+	- Using time series and plugging it back into price?
+- ES
+	- Hybrid between stress test and VaR
+	- Problem with ES is that left tailed data can have issues
+		- Banks have been ignoring data quality so the transition may be an issue for them
+	- ES liquidity factor
+		- Short term liquidity window is considered to be 10 days - assumption is they have access to local risk free rate
+		- 
+- Theta is removed from risk computations
+	- Predictable and often in the drift term already
+## Credit Risk
+- [[Credit Risk]]
+- [[Credit Spreads (Hazard Rates)]]
+- [[Credit Valuation Adjustment (CVA)]]
+- [[Credit Default Swaps (CDS)]]
+	- [[CDS Indecies]]
+	- [[Tranched CDS]]
+- [[Insolvency]]
+- [[Bankruptcy]]
+- [[Bank Default]]
+	- [[Structural Models for Default]]
+		- [[Merton Default Model]]
+		- [[Portfolio Default]]
+	- [[Reduced Form Models for Default]]
+		- [[Bond Default Valuation]]
+- [[Credit Risk and Market Risk Relationship]]
+- [[Counterparty Credit Risk]]
 
-
+---
+## Alternative Investments
+- Insurance Asset Class
+	- Hold a lot of money from premiums called "float"
+	- Most of their money comes from financial investment of their insurance premiums
+	- Claims can be modeled as a poisson process
+- Hedge Fund Asset Class
+	- Rationale for investment is that its an alternative to things like vanguard
+		- Alpha definition - returns not captured by Ross' linear factors
+	- Limited Partners (LPs) in a fund are generally insurance companies, endowments, sovereign wealth funds, and large family offices.
+	- Fixed Income Arbitrage
+	- Equity Market Neutral
+	- Managed Futures CTA
+	- Convertible Arbitrage
+	- Multi-Strategy
+	- Global Macro
+	- Event Driven Multi Strategy
+	- Event Driven Risk Arbitrage
+	- Long/Short Equity
+	- Emerging Markets
+- Beta Measure
+	- Beta profile defined as future expected beta
+- Private Equity
+	- Buy out public companies or make investments into private companies
+	- [[LBO Strategy]]
+	- Roll Up - acquire multiple small firms and consolidate them
+	- Buy and build - acquire a company with a competitive advantage and scale the business through managment
+	- VC is a type of PE
+	- These investments can be viewed as long call options
+- Real Estate
+	- Apartments
+		- Short lease (1 year)
+		- GDP per capita in the area is the biggest driver
+	- Office 
+		- Medium term lease (4-10 years)
+		- Mostly driven by job growth
+	- Industrial
+		- Long 5-10 year leases
+		- Tenants have fixed rate renewal options (like receiving a fixed rate swap)
+		- Driving variable is economic growth and traffic
+	- Retail
+		- 1-5 year leases
+		- Driven by consumer spending
+	- Real estate returns
+		- Net Income Return = Net Operating Income /(Beginning Market Value + ½ Capital Improvements – ½ Partial Sales – 1/3 Net Operating Income)
+		- Capital Appreciation Return = ((Ending Market Value – Beginning Market Value) + partial Sales – Capital Improvements) / (Beginning Market Value + ½ Capital Improvements – ½ Partial Sales – 1/3 Net Operating Income)
+		- Total Returns = Income Return + Capital Appreciation Return
+	- Real estate correlations are not stationary
+		- Reits correl heatmap shows not stationary through time
 - Trading moves to markets were regulation is weakest
 	- People trade where it costs the least to achieve their goals
 - Security - a trade of money for ownership rights
@@ -53,17 +177,42 @@ Wilmott 79:
 - Financial assets --> stocks, bonds, etc
 - Notional variables include interest rates, inflation rates, and security indexes, which exist as notions rather than as tangible assets
 - Fun fact -> world banks have lost more on bad real estate than derivatives
+## Hedging
+- [[Hedging]]
+	- Hedging is about removing the risk peices irrelevant to your strategy (get rid of risk you're not being paid to take)
+- [[Basis Risk]]
+- [[Minimum Variance Hedge]]
+- [[Hedging with Bonds]]
+- [[Hedging with Futures]]
+- [[Option Hedging]]
+	- [[Delta Hedging]]
+	- [[Gamma Hedging]]
+	- [[Vega Hedging]]
+## XVA
+- [[XVA]]
+- [[CVA]]
+- [[DVA]]
+- [[FVA]]
+	- [[FVA-C (COLVA)]]
+	- [[Repo]]
+	- [[Debt Overhang]]
+- [[MVA]]
+- [[KVA]]
+## Model Risk
+- [[Model Risk]]
+## Operational Risk
+- [[Operational Risk]]
+	- [[Operational RWA]]
+	- [[Advanced Measurement Approach (Actuarial Approach Basel II)]]
+	- [[Standardized Measurement Approach (SMA) for OpRisk (Basel 4)]]
+## Liquidity Risk
+- [[Liquidity Risk]]
+- [[Silicon Valley Bank]]
+- [[Modeling Deposits]]
+- [[Liquidity Stress Testing]]
+- [[Liquidity Ratios]]
+	- [[LCR Shortfall]]
 
 
 
-8. 1.9.  Explainhowderivativesgivetradershighleverage.
-8. 1.10.  Explain the essence of Merton Miller’s argument explaining what spurs financial innovation.
-    
-9. 1.11.  Explain the essence of Ronald Coase’s argument explaining what spurs financial innovation.
-10. 8. 1.13.  Whentheinternationalbankingregulatorsdefinedriskintheir1994report, what definition of risk did they have in mind? How does this compare with the definition of risk from modern portfolio theory?
-11. 8. BrieflypresentWarrenBuffett’sandAlanGreenspan’sviewsonderivatives.
 
-
-
-
-Variance covariance analyusis VaR

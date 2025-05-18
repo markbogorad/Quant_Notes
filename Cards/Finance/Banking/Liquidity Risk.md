@@ -1,4 +1,4 @@
-up:: [[Banking MOC]]
+up:: [[Risk Management MOC]]
 tags:: #Finance 
 # Liquidity Risk
 - Risk that bank is holding insufficient liquid assets and won't meet liquidity needs without impairment

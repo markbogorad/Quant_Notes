@@ -1,4 +1,4 @@
-up:: [[Differential Equations MOC]]
+up:: [[Numerical Methods MOC]]
 tags:: #Math
 # Integrating Factor Solution (ODEs)
 - *Logic:* you want to solve for y in terms of x, but the term $p(x)y$ complicates this. So we bring in an **integrating factor** to make it integratabtle 

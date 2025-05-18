@@ -1,6 +1,7 @@
-up:: [[Banking MOC]]
+up:: [[Risk Management MOC]]
 tags:: #Finance 
 # Market Risk
+- Short term 1-10 day horizons
 - Risk of losses in positions arising from market movements
 	- Both on and off balance sheet
 - Combination of several risks (interest rate risk, credit ratings, FX, commodities, share prices, etc), but all stemming from market activity 

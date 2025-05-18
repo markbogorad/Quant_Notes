@@ -1,6 +1,7 @@
 up:: [[Fixed Income MOC]]
 tags:: #Finance
 # Bonds
+- Bond prices are quoted as a % of par... ex bond at 50 means 50% of 1000 or 100
 - Interest on bonds is *tax deductible*
 - Generally do not fluctuate unless there is a big event like a change in credit rating
 - Liquidation order on bankruptcy

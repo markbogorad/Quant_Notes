@@ -1,7 +1,7 @@
-up:: [[Machine Learning Miscellaneous MOC]]
-tags:: #Programming 
+up:: [[Deep Learning MOC]], [[NLP Natural Language Processing MOC]]
+tags:: #Machine_Learning 
 # One Hot Encoding
-- An ML technique used for essentially making data into binary form for computers to be able to work with it
+- An ML technique used for essentially **making data into binary form** for computers to be able to work with it
 - Example: real estate data showing neighborhoods -> If house is in Canary Wharf, then it is marked with a 1 in the Canary Wharf column and a 0 in all other locations
 	- Allows you to observe correlations with Canary Wharf
 ## Example in Prof Snow code
@@ -18,3 +18,7 @@ train_df.drop(categorical_features, axis=1, inplace=True)
 # Output the modified dataset
 train_df.head()
 ```
+## In [[Deep Learning MOC]] and [[NLP Natural Language Processing MOC]]
+- Cant apply to NLP because of **semantic meaning loss**
+- One hot encoding this stuff is going to result in huge vectors that are mostly 0 
+- Treating things as sparse vectors means you treat words as independent in lose meaning between them

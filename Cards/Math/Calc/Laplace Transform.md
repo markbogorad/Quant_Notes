@@ -1,7 +1,7 @@
 up:: [[Calculus MOC]]
 tags:: #Math
 # Laplace Transform
-- Converts [[Differential Equations MOC]] into algebraic equations
+- Converts [[Numerical Methods MOC]] into algebraic equations
 - Also:
 - Used to transform a **function of time** $f(t)$ into **a complex variable** $s$ or vice versa with inverse
 	- Used in practice to solve complex PDEs easier by simplifying the derivation

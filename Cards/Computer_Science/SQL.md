@@ -1,4 +1,4 @@
-up:: [[SQL MOC]]
+up:: [[SQL MOC]], [[Data MOC]]
 tags:: #Programming  
 # SQL
 - SQL is a database management language

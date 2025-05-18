@@ -4,6 +4,10 @@ tags:: #Finance
 - A level of loss such that there is a given probability of losing more than that amount
 	- tells you the minimum predictable loss
 - A subjective model (based on parameter decisions), therefore has model risk
+- Quick mental VaR -> standard deviation * confidence interval (1.8% * 2.33) = lose no more than 4.19% of our position 99% of the time
+
+
+
 
 ## Model Building Approach
 $$VaR = VM \cdot z_{\alpha} \cdot \sigma \cdot \sqrt{N}$$

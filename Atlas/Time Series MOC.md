@@ -1,6 +1,10 @@
 up:: [[Home]]
 tags:: #MOC
 # Time Series MOC
+- State Space Models
+- Muth EWMA
+- GARCH-EWMA Connection
+- Harvey-Shephard
 ## Time Series Fundamentals 
 - [[Time Series]]
 	- [[Time Series, Cross Sectional, Panel Data]]
@@ -19,24 +23,11 @@ tags:: #MOC
 - [[Statistical Indicators]]
 - [[Fundamental Indicators]]
 - [[Sentiment Indicators]]
-
-
-
-- [[Cointegration]] - wilmott 71
-- Garch - 174
-- serial correlation 185
-- variance of mean return
-- [[Yule Asymmetry]]
-	- If the data that is the average between quartiles 0.75 and 0.25 (from numerator), then skewness will be shown when analyzing the difference between the average of those and the quartile at 0.5
-## Misc
-- EDA/TSA --> explanatory data analysis / time series analysis
-- Autocorrelation --> is the data being compressed?, what effect does the lagged value have on tomorrows value
-	- Stationarity --> statistical properties stay the same over time
-- [[Multicollinearity]]
 ## Econometric Techniques
 - [[Differencing]]
 - [[Exponential Smoothing]]
 - [[MIDAS]]
+- [[Chow-Lin]]
 ## Estimation Methods
 - [[Point Estimators]]
 - [[OLS Estimator]]
@@ -48,23 +39,25 @@ tags:: #MOC
 	- [[F Statistic]]
 	- [[Mean Dependent Variance]]
 	- [[Standard Deviation Dependent Variance]]
-- [[Maximum Likelihood Estimator]]
-	- - wilmott65
+- [[Maximum Likelihood Estimator]] - wilmott65
 ## Linear Mean Modeling
 - [[Multiple Linear Regression]]
 - [[ARIMA]] 
 	- [[AR]]
-	- [[MA]] - 
+	- [[MA]]
 	- [[SARIMA]]
-		- 
 - [[ARDL]]
-## Non-Linear Mean Modelling
-- [[Regime Switching Models]]
-	- TAR
-		- SETAR
-	- [[Markov Switching Models]]
-## Volatility Modelling
+- [[VECM]]
+## Non-Linear Mean Modeling
+- [[Threshold Autoregressive (TAR)]]
+	- [[SETAR]]
+	- [[STAR]]
+- [[Markov Switching Models]]
+## Volatility Modeling
 - [[GARCH]]
+- [[TARCH]]
+- [[FIGARCH]]
+- [[EGARCH]]
 ## Post Estimation Diagnostic Tests
 - [[Multicollinearity]]
 - [[Jarque-Bera Test]]
@@ -90,3 +83,16 @@ tags:: #MOC
 	- [[BREAKLS Model]]
 ## Dummy Variables
 - [[Dummy Variables]]
+
+
+## To Add
+- [[Cointegration]] - wilmott 71
+- Garch - 174
+- serial correlation 185
+- variance of mean return
+- [[Yule Asymmetry]]
+	- If the data that is the average between quartiles 0.75 and 0.25 (from numerator), then skewness will be shown when analyzing the difference between the average of those and the quartile at 0.5
+- EDA/TSA --> explanatory data analysis / time series analysis
+- Autocorrelation --> is the data being compressed?, what effect does the lagged value have on tomorrows value
+	- Stationarity --> statistical properties stay the same over time
+- [[Multicollinearity]]

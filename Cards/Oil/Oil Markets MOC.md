@@ -1,0 +1,146 @@
+sssup:: [[Home]]
+tags:: #MOC 
+# Oil MOC
+- High frequency - heard about traders measuring weather so that if its hot then the cost of pipeline shipping is going to increase slighlty
+- Positions in oil trading houses - is everyone a trader or do they have researchers
+- Paper arbitrage
+- Power Markets
+	- Optimal Battery Storage
+	- Financial Transmission Rights Trading
+	- Likelihood of Congestion in Power Markets
+	- California Power Trading Hub
+## Products
+- [[Oil Commodity]]
+	- [[XOP]]
+	- [[Petroleum Complex]]
+		- [[Crude Oil]]
+			- [[Oil Refining]]
+		-  [[Shale Oil]]
+		- [[Gasoline]]
+		- [[Natural Gas]]
+			- [[Natural Gas Liquids (NGLs)]]
+	- [[Worldwide Oil Flows]]
+	- [[Oil Supply and Demand]]
+- [[Energy Market]]
+	- [[Coal]]
+	- [[Electricity]]
+## Fundamentals
+- [[Real Options]]
+	- [[Storage Arbitrage]]
+	- [[Crack Spread]]
+- [[Oil Own Rate]]
+	- [[Cash and Carry Arbitrage]]
+		- [[Commodity Carry Trade]]
+		- [[Convenience Yield]]
+	- [[Roll Yield]]
+- [[Rolling Futures]]
+- [[Open Interest]]
+- [[Contango & Backwardation Markets]]
+- [[Strategic Petroleum Reserve (SPR)]]
+- [[OPEC+]] 
+- [[OCED]]
+- [[Swap Futures Contracts]]
+- [[Oil Financial Products List]]
+- [[Commodity Databases & Reports List]]
+- [[Physical Trading]]
+- [[Oil Market Participants]]
+## Energy Economics
+- [[Fundamental Oil Theory]] 
+	- [[Oil Inventories]]
+	- [[Canonical Theory of Storage]]
+		- [[Robinson Crusoe Problem (Oil)]]
+	- [[Dynamic Theory of Storage (Price-Inventory Feedback Loop)]]
+	- [[Stylized Model of the Squeeze]]
+		- [[Negative Oil Prices]] - 
+	- [[Reduced Form Stochastic Models]]
+		- [[One Factor Lognormal Model (Oil)]]
+		- [[One Factor Mean-Reverting Model (Oil)]]
+		- [[Two Factor Stochastic Convenience Yield Model (Oil)]]
+			- [[Oil Factor Model Calibration]]
+		- [[Gabillon Model]]
+- [[Flow Oil Theory (Hedging Pressure)]]
+	- [[Theory of Normal Backwardation]]
+	- [[Theory of Normal Contango]]
+		- [[Presence of Inflation Hedgers]]
+			- [[Risk Parity (All Weather)]]
+	- [[Oil Financial Hedging Equilibrium]]
+## Relative Value Strategies (Feedback Loop Trading)
+- [[Wider Feedback Loops in Oil]]
+- [[Cross-Asset Spread Arbitrage]]
+	- [[Oil and USD]]
+	- [[Oil and OPEC Currencies]]
+	- [[Oil and Energy Equities]]
+	- [[Oil and Inflation]]
+- [[Macro Oil Fair-Value Model]]
+- [[Market Participant Identification Trading]]
+## Quantitative Futures Strategies
+- [[Algorithmic Trading in Oil]]
+	- [[Reaction Function]] 
+	- [[Fractionation]]
+- [[Oil Momentum Risk Premia]]
+- [[Oil Carry Risk Premia]]
+- [[Oil Value Risk Premia]]
+- [[Quantamental Oil Trading]]
+	- [[Time (Calendar) Spreads]]
+		- [[Trading Futures Curve Convexity]] - are we working under a new definition of the futures curve (plotting spreads instead of futs?)
+		- [[Concave Contango]] 
+		- [[Convex Backwardation]]
+	- [[Locational Spread]]
+		- [[WTI-Brent Accordion]] 
+		- [[Energy Statistical Arbitrage]]
+		- [[Freight Rates]]
+	- [[Oil Inventory Trading]] --
+- [[Positioning Analysis]]
+	- [[Oil Sentiment Analysis]]
+		- [[#OOTT Twitter Sentiment]]
+- [[Lookahead Bias]]
+- [[Practical Hedge Fund Trading]]
+## Volatility Trading
+- [[Oil Options]]
+	- [[Bachelier Option Model]]
+	- [[Black-Scholes]]
+		- [[Black-Scholes for Futures]]
+		- [[Asymmetry of Black-Scholes]]
+	- [[Moneyness]]
+	- [[Realized Volatility]]
+	- [[Implied Volatility]]
+		- [[The Volatility Smile]]
+	- [[Local Volatility]]
+		- [[Time Dependent Local Volatility]]
+			- [[Local Volatility Bootstrapping]]
+		- [[Inverse Diffusion Problem]] -
+- [[Oil Volatility Trading]]
+	- [[Volatility Risk Premium (Gamma Trading)]]
+	- [[Vega (Smile) Trading]]
+		- [[Sticky Moneyness]]
+		- [[Sticky Strike]]
+		- [[Sticky Local Volatility]]
+		- [[Quadratic Normal Model]]
+	- [[Term Structure Trading]]-
+	- [[Cross-Product Volatility Spread Trading]]-
+	- [[Correlation Trading (Oil Options)]]-
+- [[Term Structure of Implied and Local Volatility]]-
+	- [[Volatility Term Structure]]-
+## OTC Options
+- [[Exotic Options]]
+	- [[Digital Options]]
+	- [[Early Expiry Options]]
+	- [[Oil Swaptions]]
+		- [[3x6 Swaption]]
+		- [[Extendable Option]] 
+	- [[Average Price Options]]
+		- [[Hacienda Hedge]]
+	- [[Spread Options]]
+		- [[Time (Calendar) Spreads]]
+		- [[Synthetic Storage Strategy]]
+		- [[Triangular Correlation Arbitrage]]
+- [[OTC Options]]
+- [[Hedging and Regime Changes in Oil]]
+- [[Dark Pools]]
+
+
+- Spreads must be picked when trading behavior of arbitrageurs is significant enough compared to size of mkt
+	- How to gauge this?
+- LSOIL bloomberg
+- Does HFT work on oil or other commods? Read on quantnet that high frequency strats dont really work because theyre too illiquid...
+- - strength of reaction function? - optimized by strategy or in general by commodity? any nuance?

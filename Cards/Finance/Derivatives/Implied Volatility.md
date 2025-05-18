@@ -1,9 +1,10 @@
-up:: [[Derivatives MOC]]
+up:: [[Derivatives MOC]] [[Oil Markets MOC]]
 tags:: #Finance 
 # Implied Volatility ($\delta$)
-- The market's expectation of *future* volatility
+- **A number you plug into the wrong formula to match the market price**
+	- **Think of this as expressing option price in terms of strike and vol**
+- The market's expectation of future volatility, derived from market prices 
 	- Volatility: deviation of the underlying's price movement, measured by standard deviation of logarithmic returns ([[GARCH]])
-	- Use the [[Lognormal Distribution]] to get exact standard deviation movements
 		- The tighter the distribution, the lower the volatility
 - Derived from [[Black-Scholes]] and other pricing models -> not observable
 - The higher the implied volatility, the more expensive the contract

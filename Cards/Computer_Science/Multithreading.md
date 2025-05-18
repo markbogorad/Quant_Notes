@@ -1,6 +1,21 @@
-up:: [[Computer Science MOC]]
+up:: [[Computer Science MOC]], [[Data MOC]]
 tags:: #Programming  
 # Multithreading
+- Running multiple executable paths within one program
+
+|Concept|Key Idea|Simultaneity?|Example Use Case|
+|---|---|---|---|
+|**Multithreading**|Multiple threads in one process|Not necessarily|UI + background task|
+|**Concurrency**|Multiple tasks logically at once|Not necessarily|Database handling many queries|
+|**Parallelism**|Multiple tasks physically at once|Yes|MapReduce processing stock data|
+
+- **Multithreading**: One person juggling 3 balls.
+- **Concurrency**: One cook making several dishes by switching tasks efficiently.
+- **Parallelism**: Several cooks making dishes at the same time in different kitchens.
+
+
+
+
 - Executing multiple threads concurrently within a single process
 - By using multiple threads, a program can perform multiple operations at the same time, improving performance and responsiveness.
 - On multi-core processors, threads can be executed in parallel, making full use of the [[CPU]] capabilities and improving performance.

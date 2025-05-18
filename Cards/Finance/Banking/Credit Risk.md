@@ -1,14 +1,68 @@
-up:: [[Banking MOC]]
+up:: [[Risk Management MOC]]
 tags:: #Finance 
 # Credit Risk
 - *Risk that a bank borrower or counterparty will fail to meet its obligations in accordance with agreed terms or their creditworthiness will deteriorate*
-	- Likelihood of a drop in credit rating
+	- Encompasses 
+		- [[Counterparty Credit Risk]] 
+		- [[Credit Valuation Adjustment (CVA)]]
+		- Lending Risk 
+- Pricing Credit Instruments
+	- Price the portfolio as if it would have been tradable asset
+- Important concept: who is my credit risk to?
+	- Answer: whoever you end up suing
+	- Issuers - physical name on the contract
+	- Guarantor - municipality 
+	- Obligor - the person legally obligated to pay
+- Bond credit risk
+	- Issued by agents + additional guarantee from local govt
+- 3 main pieces
+	- Lending (Conventional credit risk from loans)
+	- Bonds (issuer risk) 
+		- For bond or loan
+		- Risk that issuer of debt securities will default 
+	- [[CVA]]
+		- For derivative transactions, repos, structured products
+- Does capital cover expected or unexpected credit losses?
+	- Unexpected (expected losses are covered via regular lending rates)
+![[Screenshot 2025-05-12 at 9.27.22 AM.png]]
+## Mitigation Techniques
+- Netting agreements
+- Posting of collateral
+- Diversification
+## Credit Risk Drivers
+- Probability of default (hazard rates)
+	- Uses a bunch of logistic regression models (a structural model)
+	- [[Vasicek Interest Rate Model]]
+		- Applicable for a huge portfolio of loans so diverse that its ok to average (artificial setup where number of borrowers go to infinity and loans are homogenous)
+- Loss given default (1-r)
+- Exposure at default
+## Modeling credit risk
+- Modeling recoveries ([[Structural Models for Default]])
+- Modeling counterparties ([[CVA]])
+- Controlling prescriptions by regulators (modeling RWAs)
+	- EEPE Effective Expected Positive Exposure
+		- Regulator requirement for banks to be more conservative about their exposure
+	- Theres also a CVA add on here thats a VaR style sensitivity computation
+- Internal models approach
+	- Uses internal ratings to reflect knowledge on counterparty
+- IRB approach - taking prescriptions from internal models 
+## Recovery rates
+- Fluctuate around 40% for corporate bonds (very different across credit instruments)
+## Securitization Framework
+- A response from regulators to the events of 2008
+- Securitization is any kind of loan packaging 
+	- Issue bonds on behalf of the pool
+	- Tranche the bonds
+	- AAA -> low coupon, low interest, low default
+	- BBB -> high coupon, high prepay, high default
+---
+### Bayes Content
 - Expected risk is covered with **loan loss provision**
 - Unexpected losses are covered with [[Bank Capital]]
 - Credit risk is managed via **diversification**
 	- Reduces idiosyncratic (stock specific) risk
 	- Still have systematic risk (recessions)
-- Credit risk is commonly reflected in corporate bonds via the [[Credit Spread]]
+- Credit risk is commonly reflected in corporate bonds via the [[Credit Spreads (Hazard Rates)]]
 - Stems from the information asymmetry issue in banking ([[Asset Transformation Function]]) with regards to risk
 	- Borrower can go rogue
 ## Origin of Credit Risk

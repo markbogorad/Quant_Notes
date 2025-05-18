@@ -1,4 +1,4 @@
-up:: [[SQL MOC]]
+up:: [[SQL MOC]], [[Data MOC]]
 tags:: #Programming  
 # Operators
 Certainly! Here is the table with the operators enclosed in quotes:

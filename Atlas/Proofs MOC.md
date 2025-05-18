@@ -1,2 +1,0 @@
-up:: [[Home]]
-tags:: #MOC 

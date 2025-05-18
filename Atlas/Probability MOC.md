@@ -82,6 +82,9 @@ tags:: #MOC
 	- [[Martingales]]
 - [[Conditional Expectation and Variance]]
 - [[Conditional to Unconditional]]
+- [[Kolmogorov Equations]]
+	- Kolmogorov Forward
+	- Kolmogorov Backward
 ## Limit Results
 - [[Convergence of a Sequence of Random Variables]]
 - [[Chebyshev's Inequality]]
@@ -112,6 +115,7 @@ tags:: #MOC
 -  [[Countability]]
 	- [[Pairwise Disjoint]]
 - [[Indicator Function]]
+
 
 Volatility - 162
 

@@ -1,4 +1,4 @@
-up:: [[Banking MOC]], [[Fixed Income MOC]]
+up:: [[Risk Management MOC]]
 tags:: #Finance 
 # Interest Rate Risk
 - Risk that unexpected changes in the interest rates will affect bank performance or earnings

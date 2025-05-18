@@ -1,204 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Oil Markets MOC",
-      "path": "+ Encounters/Oil Markets MOC.md"
-    },
-    {
-      "basename": "Stochastic Diffusion Equations",
-      "path": "+ Encounters/Stochastic Diffusion Equations.md"
-    },
-    {
-      "basename": "Black-Scholes in Diffusions",
-      "path": "+ Encounters/Black-Scholes in Diffusions.md"
-    },
-    {
-      "basename": "Quadratic Normal Model",
-      "path": "+ Encounters/Quadratic Normal Model.md"
-    },
-    {
-      "basename": "Stickiness (Oil)",
-      "path": "+ Encounters/Stickiness (Oil).md"
-    },
-    {
-      "basename": "Skew Delta",
-      "path": "+ Encounters/Skew Delta.md"
-    },
-    {
-      "basename": "Volatility Market Making",
-      "path": "+ Encounters/Volatility Market Making.md"
-    },
-    {
-      "basename": "Volatility Smile Trading",
-      "path": "+ Encounters/Volatility Smile Trading.md"
-    },
-    {
-      "basename": "Hedging and Regime Changes in Oil",
-      "path": "+ Encounters/Hedging and Regime Changes in Oil.md"
-    },
-    {
-      "basename": "Negative Gamma",
-      "path": "+ Encounters/Negative Gamma.md"
-    },
-    {
-      "basename": "Oil Delta Hedging",
-      "path": "+ Encounters/Oil Delta Hedging.md"
-    },
-    {
-      "basename": "Options and Heat Transfer",
-      "path": "+ Encounters/Options and Heat Transfer.md"
-    },
-    {
-      "basename": "Heat Equation",
-      "path": "+ Encounters/Heat Equation.md"
-    },
-    {
-      "basename": "Option Replication with Futures",
-      "path": "+ Encounters/Option Replication with Futures.md"
-    },
-    {
-      "basename": "Local Volatility",
-      "path": "+ Encounters/Local Volatility.md"
-    },
-    {
-      "basename": "Macro Oil Fair-Value Model",
-      "path": "+ Encounters/Macro Oil Fair-Value Model.md"
-    },
-    {
-      "basename": "Oil and USD",
-      "path": "+ Encounters/Oil and USD.md"
-    },
-    {
-      "basename": "XOP",
-      "path": "+ Encounters/XOP.md"
-    },
-    {
-      "basename": "Oil and Energy Equities",
-      "path": "+ Encounters/Oil and Energy Equities.md"
-    },
-    {
-      "basename": "Oil and Inflation",
-      "path": "+ Encounters/Oil and Inflation.md"
-    },
-    {
-      "basename": "Cross-Asset Spread",
-      "path": "+ Encounters/Cross-Asset Spread.md"
-    },
-    {
-      "basename": "Oil and OPEC Currencies",
-      "path": "+ Encounters/Oil and OPEC Currencies.md"
-    },
-    {
-      "basename": "Feedback Loop in Oil",
-      "path": "+ Encounters/Feedback Loop in Oil.md"
-    },
-    {
-      "basename": "Oil Sentiment Analysis",
-      "path": "+ Encounters/Oil Sentiment Analysis.md"
-    },
-    {
-      "basename": "WTI-Brent Accordion",
-      "path": "+ Encounters/WTI-Brent Accordion.md"
-    },
-    {
-      "basename": "Positioning Analysis",
-      "path": "+ Encounters/Positioning Analysis.md"
-    },
-    {
-      "basename": "Transportation Arbitrage",
-      "path": "+ Encounters/Transportation Arbitrage.md"
-    },
-    {
-      "basename": "Energy Statistical Arbitrage",
-      "path": "+ Encounters/Energy Statistical Arbitrage.md"
-    },
-    {
-      "basename": "Oil Momentum Risk Premia",
-      "path": "+ Encounters/Oil Momentum Risk Premia.md"
-    },
-    {
-      "basename": "Time (Calendar) Spreads",
-      "path": "+ Encounters/Time (Calendar) Spreads.md"
-    },
-    {
-      "basename": "Python MOC",
-      "path": "Atlas/Python MOC.md"
+      "basename": "Time Series MOC",
+      "path": "Atlas/Time Series MOC.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
     },
     {
-      "basename": "Crack Spread",
-      "path": "+ Encounters/Crack Spread.md"
+      "basename": "Credit Risk",
+      "path": "Cards/Finance/Banking/Credit Risk.md"
     },
     {
-      "basename": "Oil Inventory Trading",
-      "path": "+ Encounters/Oil Inventory Trading.md"
+      "basename": "Risk Management MOC",
+      "path": "Atlas/Risk Management MOC.md"
     },
     {
-      "basename": "Fractionation",
-      "path": "+ Encounters/Fractionation.md"
+      "basename": "Screenshot 2025-05-12 at 1.46.34 PM",
+      "path": "Extras/Images/Screenshot 2025-05-12 at 1.46.34 PM.png"
     },
     {
-      "basename": "Oil Spread Option",
-      "path": "+ Encounters/Oil Spread Option.md"
+      "basename": "Screenshot 2025-05-12 at 1.43.50 PM",
+      "path": "Extras/Images/Screenshot 2025-05-12 at 1.43.50 PM.png"
     },
     {
-      "basename": "Quantamental Oil Trading",
-      "path": "+ Encounters/Quantamental Oil Trading.md"
+      "basename": "Basis Risk",
+      "path": "Cards/Finance/Derivatives/Basis Risk.md"
     },
     {
-      "basename": "Convex Backwardation",
-      "path": "+ Encounters/Convex Backwardation.md"
+      "basename": "Liquidity Risk",
+      "path": "Cards/Finance/Banking/Liquidity Risk.md"
     },
     {
-      "basename": "Concave Contango",
-      "path": "+ Encounters/Concave Contango.md"
+      "basename": "Liquidity Ratios",
+      "path": "Cards/Finance/Banking/Liquidity Ratios.md"
     },
     {
-      "basename": "Oil Curve Convexity",
-      "path": "+ Encounters/Oil Curve Convexity.md"
+      "basename": "Most Simple Probability (Sum Rule)",
+      "path": "Cards/Probability/Most Simple Probability (Sum Rule).md"
     },
     {
-      "basename": "PCA",
-      "path": "Cards/Math/Calc/PCA.md"
+      "basename": "Pasted image 20250511170759",
+      "path": "Extras/Images/Pasted image 20250511170759.png"
     },
     {
-      "basename": "Reaction Function",
-      "path": "+ Encounters/Reaction Function.md"
+      "basename": "Data MOC",
+      "path": "Atlas/Data MOC.md"
     },
     {
-      "basename": "Oil Value Risk Premia",
-      "path": "+ Encounters/Oil Value Risk Premia.md"
-    },
-    {
-      "basename": "Oil Carry Risk Premia",
-      "path": "+ Encounters/Oil Carry Risk Premia.md"
-    },
-    {
-      "basename": "Risk Benchmark",
-      "path": "Cards/Quantitative_Valuation/Risk Benchmark.md"
-    },
-    {
-      "basename": "Quantitative Valuation MOC",
-      "path": "Atlas/Quantitative Valuation MOC.md"
-    },
-    {
-      "basename": "Sharpe Ratio",
-      "path": "Cards/Finance/Portfolio Theory/Sharpe Ratio.md"
-    },
-    {
-      "basename": "Algorithmic Trading in Oil",
-      "path": "+ Encounters/Algorithmic Trading in Oil.md"
-    },
-    {
-      "basename": "Contango & Backwardation Markets",
-      "path": "Cards/Finance/Derivatives/Contango & Backwardation Markets.md"
-    },
-    {
-      "basename": "OPEC+",
-      "path": "+ Encounters/OPEC+.md"
+      "basename": "Docker",
+      "path": "Cards/Computer_Science/Comp Sci/Docker.md"
     }
   ],
   "omittedPaths": [],

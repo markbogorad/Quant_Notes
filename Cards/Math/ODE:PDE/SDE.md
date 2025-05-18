@@ -1,4 +1,4 @@
-up:: [[Differential Equations MOC]], [[Stochastic Calculus MOC]]
+up:: [[Numerical Methods MOC]], [[Stochastic Calculus MOC]]
 tags:: #Math
 # Stochastic Differential Equations
 - Stochastic differential equations (SDEs) are used to model systems that are influenced by random processes.

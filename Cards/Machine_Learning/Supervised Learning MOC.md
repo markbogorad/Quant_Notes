@@ -39,6 +39,8 @@ tags:: #MOC
 ## Classification Models
 - [[Logistic Regression]]
 - [[Multiple Class Classification]]
+- Naïve Bayes
+- Maximum Entropy
 ## Non Linear Classification
 - [[K-Nearest Neighbors (KNN)]]
 - Classification Trees (gini index is here)
@@ -54,6 +56,8 @@ tags:: #MOC
 	- [[Phik Score]]
 	- [[AIC and BIC]]
 	- [[ROC AUC Curve]]
+- Confusion Matrix
+- Entropy
 ## Regression Based Models
 - [[Linear Regression]]
 - [[Logistic Regression]]

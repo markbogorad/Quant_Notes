@@ -1,6 +1,8 @@
 up:: [[Probability MOC]]
 tags:: #Math 
 # Variance
+- *Variance is calculated by subtracting the average return from each individual return, squaring that figure, summing the squares across all observations, and dividing the sum by the number of observations.*
+
 - **Variance** is a measure of the spread or dispersion of a random variable's possible values around its expected value (mean). It quantifies how much the values of a random variable differ from the expected value on average.
 	- See [[Expectation]]
 $$\text{Var}(X) = \mathbb{E}[(X - \mathbb{E}[X])^2]$$

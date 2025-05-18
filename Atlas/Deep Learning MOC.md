@@ -1,14 +1,232 @@
 up:: [[Home]]
 tags:: #MOC
-## Deep Learning
-- [[Neural Network]] --> can work with non stationary data
-	- Convolutional Neural Network (CNN) -> layered pattern recognition
-	- [[Propagation (Forward and Backward)]]
-	- N Beats Model
-- Machine Intelligence
-- Deep Learning for Volatility
-- Dimensionality Reduction
-- GANs
+extra credit options
+- semantic query/semantic embedding - generate own search engine
+
+
+# Deep Learning MOC
+- [[Machine Learning Notation]]
+	- [[Epoch]]
+	- [[Layer (Batch) Normalization]]
+	- [[Sparsity]]
+		- [[Sparse Matrices ]]
+	- [[Cross Sectional Regression]]
+	- [[Learning Rate]]
+		- [[Learning Rate Scheduling]]
+	- [[Dot Product]]
+- [[PyTorch]]
+- [[TensorFlow]]
+- [[Entropy]] (classification)
+	- [[Cross Entropy Loss]]
+	- Both of the above come from maximum likelihood
+- [[Test-Time Compute]] (DeepSeek example)
+- [[Ablation Experiments]] in Papers 
+- [[Artificial Intelligence]]
+- [[One Hot Encoding]]
+- [[Cosine Similarity]]
+	- Measuring the similarity (vector direction) between words
+- [[Embeddings]]
+- [[Unique Deep Learning Loss Functions (Tasks)]]
+## Neural Networks
+- [[Neural Network]]
+	- [[Activation Functions]]
+		- [[GeLU]]
+		- [[ReLU]]
+		- [[Softmax]]
+		- Uses dot product to compute scalar values which are then run through an activation function
+			- Dot product is a pattern matching operation
+				- Compare it to input and it gives you a measure of how closely the input matches the pattern
+					- Patterns correspond to weights
+		- [[Sigmoid Activation]]
+		- [[Tanh Activation]]
+	- [[Gradient Search]]
+		- [[Gradient Descent]]
+			- Trying to find v that minimize function f (gradient ascent ipynb formula)
+			- Moving in the negative direction of the gradeint
+			- Derivative of loss and updating in the opposite direction of the gradient
+			- [[Backpropogation]]
+				- Partial gradient working backwards 
+		- [[Gradient Ascent]]
+			- Same problem just maximization framework (moving in positive direction of gradient)
+			- Requires a custom training step in Keras
+		- [[Vanishing Gradient Problem]]
+		- [[Exploding Gradient Problem]]
+		- [[Gradient Clipping]]
+## Gradient Descent Optimizers
+- [[Adam Optimizer]]
+- [[Stochastic Gradient Descent (SGD)]]
+## Layer Types
+- [[Layers (Neural Networks)]]
+- [[Feedforward Network (FFNN)]]
+	- [[Multilayer Perceptron (MLP)]]
+	- [[Convolutional Neural Network (CNN)]]
+		- [[Deconvolution]] 
+			- DECONVOLUTION (CONVOLUTION TRASNPSOSE)
+			- Feeds into autoencoder
+	- [[Kolmogorov Arnold Networks (KAN)]]
+	- [[N Beats Model]]
+- [[Recurrent Neural Network (RNN)]]
+	- [[Vanishing Gradient Problem]]
+	- [[Backpropogation Through Time (BPTT)]]
+	- [[Long Short Term memory (LSTM) Network]]
+		- Put dense vectors into here at it will encode the meaning into a single vector
+	- [[Gated Recurrent Unit (GRU)]]
+- [[Attention]]
+	- Isolates the elements of the input sequence thats relevant for the particular output
+	- [[Cross Attention]]
+	- [[Multi-Head Attention]]
+	- [[Additive Cross Attention]]
+## Transformer Architecture
+- [[Transformers]]
+	- [[Transformer Scaling]]
+	- [[Functional Style Coding (Transformer)]]
+	- [[Skip Connection]]
+	- [[Encoders]]
+		- Produces an output sequence in 1 shot
+		- Each element has a separate operation box
+		- Boxes work in parallel (direct function approach)
+		- 1 output per token of the input
+		- Self attention layer + feed forward network
+			- Self attention is how it decides to focus attention on different pieces
+	- [[Auto-Encoders]]
+		- Think of this as dimensionality reduction like PCA except you use a neural net instead of PCA
+		- [[Variational Auto-Encoder]]
+	- [[Decoders]]
+		- [[Discriminative vs Generative Processes]]
+		- Decoder only is generative?
+		- Predict next word conditional on the past -> this powers AI assistants
+		- Predict the next word task -> AI trained to predict next word based on decoder style transformer
+			- Data is a block of text that gets tokenized 
+			- Gathering training data is difficult
+	- [[Encoder-Decoder Network]]
+		- When paired, the decoder can look at outputs as well
+		- Encoder gets an additional middle operation 
+	- [[Transformer vs RNN]]
+		
+- [[Dense Layers]]
+- [[Embedding Layer]]
+	- Converting sparse to dense vector in tokenization
+- [[Teacher Forcing]]
+	- Bases predictions on truth not on your predictions (sending in the real target instead of it's predictions)
+		- At inference time you dont have true targets (only predicxitons)
+		- At training time you use actuals
+	- Part of the [[Predict the Next Task]]
+		- Nuance of predict the next is that you do 1 piece at a time instead of the whole thing
+## Transfer Learning
+- [[Transfer Learning]]
+	- Unsupervised pre-training + supervised fine tuning
+		- [[Generative Pre-Training]]
+			- [[Feature Extraction in Transfer Learning]]
+		- [[Supervised Fine Tuning]]
+			- Parameter Efficient Fine Tuning
+	- AKA fine tuning (Load -> freeze -> replace -> retrain)
+	- Process of adjusting an existing trained model to solve your specific task
+	- 3 main model components
+		- [[Tokenizer]]
+			- [[Tokenization]]
+			- [[Auto-Tokenizer]]
+			- [[Byte Pair Encoding]]
+		- Preprocessor from source task into input for core (tokenizer)
+			- Reusable
+			- Typically a tokenizer
+		- Core model (works on tokens) (body i.e. feature extractor that is pre-trained on a different dataset)
+		- [[Core Model (Body) Transfer Learning]]
+		- [[Output (Head) Transfer Learning]]
+			- To be changed for specific target
+		- Need to use same tokenizer for output as was used in input
+			- Autotokenizer class in huggingface
+	- [[Freezing Layers (Transfer Learning)]]
+		- Freezing weights of early layers
+		- Weights are already knowledgable
+		- Don't want to mess with the effort of building the original model -> compensate by training your own additions
+	- [[Domain Adaptation]]
+		- [[Adversarial Training]]
+	- Sometimes the final few layers of the original model are also removed because they are believed to be overspecialized on the source task, so they're removed to give way for new layers to specialzie on your unique task
+- [[BERT]]
+	- Bidirectional Encoder Representations from Transformers (BERT)
+- [[Generative Pre-Trained Transformers (GPT)]]
+
+## Coding and Big Data
+- ??
+	- This gives you documentation in HuggingFace
+	- ex: `model.__init__??`
+- Skip Connection Code
+	- return self.layernorm_2(proj_inpuit + proj_output)
+	- + concatenation is what implements the skip connection
+
+## Applications
+- Factor Models via Autoencoders
+	- Stefan Jansen
+	- Factor models are akin to dimensionality reduction
+	- Causality behind correlation that influence stocks -> we believe there are common factors that influence stocks
+	- Can also be used for hedging and risk management 
+	- 3 most common types
+		- Pre-defined factor models 
+			- Have a set of factors in mind before
+		- Pre-defined sensitivities
+			- Define sensitivity (beta) of stock to factor 
+			- Ex: looking for tech influence you'd define tech as 1 non tech as 0 (a kind of grouping)
+		- Nothing pre-defined
+			- Solve for factor returns and beta
+- Twitter 
+
+week 2 reading
+- Keras inheritance
+- Keras functional API
+- Functionalmodel.ipynb
+- GradientAscent
+- AutoEncoders for conditional risk factors
+- TesnorFlow tutorial on transformer 
+- TransformerCode
+
+week 3
+- transformer code
+- Python generators
+- HF Datasets - for huge things that don't fit into memory
+	- Padding
+	- Truncation
+	- to_tf_datasets()
+		- Converts HF dataset to tensorflow
+- Tensor datasets
+	- Tensor slices vs __
+	- Passing arrays vs passing lists
+- Feed datasets into fit method
+	- Used to batch the data so you can use fit on it
+- All functions made in HF or tensorflow need to be differentiable
+
+Week 4 notebooks
+- model hub
+- GPUs
+	- GPT 3 required 10^23 for training
+	- 0^20 seconds in a day meaning that with 1 GPU it would take 100 years
+	- Used 1000 GPUs to train in 1 day
+	- Now compute is up to 100K GPUs
+	- Hard to finetune parameters given this constraint
+- Parameter Efficient Fine Tuning
+	- Fine tuning in context of not using as many GPUs
+	- Adapters
+		- Small neural network
+		- Inserted into pretrained models
+		- Freeze weights of pretrained model and train the weights of the adapters
+			- Fine tune a big model by training these adapters with gradient descent
+				- Computing dW using gradient descent (does not learn dW directly)
+			- **LoRA architecture** - manually done in final
+				- Low rank adaptation
+				- d and a parameters 
+				- a should be 0.01% of d
+				- Ex: GPT-3 had d=12,288 and a=12 worked well for fine tuning adapters
+	- BitFit
+		- Adapting only bias terms in dot product
+			- Paper in parameter efficient fine tuning
+- Fine Tuning by Proxy
+	- Not changing weights of base at all but using a smaller model to calibrate
+	- Train a smaller model and use the resulting logits as a proxy for the bigger model
+- Universal API
+	- Predict the next task - basis of LLMs (basis of unviersal API)
+- Prompt Engineering Tuning
+## Synthetic Data
+- [[Auto-Encoders]]
+- [[Generative Adversarial Network (GAN)]]
 	- The frist version of generative ML (like AI)
 	- Composed of 2 neural network models
 	- Can generate realistic time series data

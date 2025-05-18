@@ -1,2 +1,2 @@
-up:: [[Differential Equations MOC]]
+up:: [[Numerical Methods MOC]]
 tags:: #Math

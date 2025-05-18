@@ -1,6 +1,7 @@
 up:: [[Fixed Income MOC]]
 tags:: #Finance
 # Convexity
+$$Convexity_{Dollar}=\frac{d^2PV}{dy^2}=\frac{\Delta Duration_{Dollar}}{\Delta y}$$
 - A more proper measure of bond price sensitivity
 - Bond price sensitivity is convex
 	- Whereas the [[Duration Model]] assumes it's linear

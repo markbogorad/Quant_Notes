@@ -14,8 +14,12 @@ tags:: #MOC
 - [[Contango & Backwardation Markets]]
 ## Other Derivatives
 - [[Interest Rate Derivatives]]
+	- [[Interest Rate Swaps]]
 	- HJM Model
 - [[Swaps]]
+- [[Credit Default Swaps (CDS)]]
+	- [[CDS Indecies]]
+	- [[Tranched CDS]]
 ## Derivatives Trading Fundamentals
 - [[Derivatives Terms & Order Types]]
 	- [[Marking to Market]]
@@ -36,7 +40,7 @@ tags:: #MOC
 - [[Put-Call Parity]]
 	- [[Relationship Between Calls, Puts, and Futures (No Arbitrage)]]
 - [[Implied Volatility]]
-	- [[The Volatility Smile]]
+	- [[Oil Volatility Smile]]
 ## Option Pricing
 - [[Option Pricing (General)]]
 - [[Black-Scholes]] - 129

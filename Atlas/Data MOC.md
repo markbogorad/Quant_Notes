@@ -1,11 +1,80 @@
 up:: [[Home]]
 tags:: #MOC 
 # Data MOC
-## Data for C++
-- JSON cpp parsers (industry standard via tang song)
-- Lib curl -> network transfer (more industry standard than APIs)
-## APIs
-## Data Sources
-- Interactive Brokers
-- Robinhood
-- BLP API
+## Types of Data & Fundamentals
+- [[Financial Data]]
+	- [[Reference Data]]
+		- [[Metadata]]
+		- [[CUSIPS]]
+		- [[DUNS Number]]
+	- [[Business Data]]
+	- [[Static Data]]
+	- [[One to One and One to Many Relationships]]
+- [[Data Pipeline]] 
+	- [[JSON]]
+		- [[Fix Protocol]]
+			- [[XML]]
+		- [[Live Data APIs]]
+	- [[libcurl]]
+	- [[JSON CPP Parser]]
+## Relational Databases
+- [[Relational Databases]]
+	- [[SQL Lite]]
+	- [[Primary Key]]
+	- [[Foreign Key]]
+	- [[ER Relationships]]
+- [[SQL MOC]]
+	- [[SQL]]
+	- [[SQL List of DDL and DML]]
+	- [[SQL Main Operators]]
+	- [[SQL Join]]
+	- [[SQL Casting]]
+	- [[DDL]]
+	- [[DML]]
+- [[Relational Database Management Characteristics]]
+- [[Allowing for Concurrency]]
+	- [[Concurrency]]
+	- [[Multithreading]]
+	- [[Parallelism C++]]
+## Big Data
+- [[Big Data]]
+- [[Big Data Pipeline]]
+	- [[AWS EC2]]
+	- [[Docker]]
+	- [[Hadoop (Apache)]]
+		- [[Hortonworks (Cloudera) Sandbox]]
+		- [[Ambari + Hue]]
+		- [[Hive]]
+		- [[OBDC Driver + pyodbc]]
+- [[Map Reduce]]
+## Python Data Structures 
+- [[List Python]]
+- [[Tuple Python]]
+- [[Dictionaries in Python]]
+- [[Numpy]]
+- [[SciPy]]
+- [[Pandas]]
+	- [[Series Python]]
+	- [[Pandas Dataframes]]
+- [[Matplotlib, Seaborn, Plotly]]
+- [[Sqlite3]]
+- [[pyodbc]]
+- [[yfinance]]
+## Important Coding Scripts
+- [[MapReduce Code]]
+	- WordCounter Code
+	- Map (MapReduce)
+	- Reduce (MapReduce)
+- [[JSON and libcurl C++]]
+	- [[Data Delivery]] 
+	- [[Pull Data]]
+	- [[Parse Data]]
+	- [[Populate Data]]
+	- [[Convert Timestamp]]
+## C++ Specifics
+- [[Call by Reference]]
+- [[Call by Value]]
+- [[Pointers]]
+- [[C++ Vectors]]
+- [[For Loop]]
+- [[Iterators]]

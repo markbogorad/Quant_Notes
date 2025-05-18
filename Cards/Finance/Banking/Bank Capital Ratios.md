@@ -1,4 +1,4 @@
-up:: [[Banking MOC]]
+up:: [[Risk Management MOC]], [[Banking MOC]]
 tags:: #Finance 
 # Capital Ratios
 - Part of [[Micro-prudential Regulation]]

@@ -1,4 +1,4 @@
-up:: [[Artificial intelligence MOC]]
+up:: [[Deep Learning MOC]]
 tags:: #Machine_Learning 
 ### How do LLMs work?
 

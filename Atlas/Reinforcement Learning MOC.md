@@ -7,3 +7,7 @@ tags:: #MOC
 	- Optimal Order Execution
 - [[Feedback Loop]]
 - [[Dynamic Hedging]]
+## Multi Armed Bandits
+- K-Armed Bandit Problem
+- Greedy Methods
+- UCB Methods
